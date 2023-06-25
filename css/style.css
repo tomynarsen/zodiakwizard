@@ -1,0 +1,4948 @@
+
+            .horotilza,.mightlike h3,.sacmi {
+                width: fit-content
+            }
+
+            .rightbar #quicksignmatch-top select {
+                border: 0;
+                color: #000;
+                background-color: transparent;
+                text-transform: uppercase
+            }
+
+            .PlaneRow,.horotilza,.hzcent,.mightlike h3,.quoteM,img.signsaddimg {
+                text-align: center
+            }
+
+            #skm-d-mid,#skm-d-leaderboard,#table-of-contents,.astroguide,.guidetop ul,.imgh_horo,.izcontain,.masuba,.sacmi,.w-container h2,form#cse-search {
+                overflow: hidden
+            }
+
+            .sacmi {
+                display: block;
+                height: 40px;
+                margin: 15px auto
+            }
+
+            .additionalinfo.rmkasiz .textbar.ele .image-port {
+                position: unset;
+                border: 0
+            }
+
+            .ChangeHoroTime a::before {
+                content: " ";
+                display: inline-block;
+                margin-right: 5px;
+                color: inherit
+            }
+
+            .ChangeHoroTime a[href*=yesterday]::before {
+                content: "⇠"
+            }
+
+            .ChangeHoroTime a[href*=daily]::before {
+                content: "⧗"
+            }
+
+            .ChangeHoroTime a[href*=tomorrow]::before {
+                content: "⇢"
+            }
+
+            .ChangeHoroTime a[href*=weekly]::before {
+                content: "⦗⦘"
+            }
+
+            .ChangeHoroTime a[href*=monthly]::before {
+                content: "◐"
+            }
+
+            .ChangeHoroTime a[href*="/2023/"]::before {
+                content: "✸"
+            }
+
+            .ChangeHoroTime a[href*=compatibility]::before {
+                content: "❣"
+            }
+
+            .ChangeHoroTime a[href*=zodiac-signs]::before {
+                content: "★"
+            }
+
+            .love_btn::before,.mzkaidi::before {
+                margin-right: 10px
+            }
+
+            .widgettext {
+                margin-bottom: 25px;
+                padding: 0px 5px;
+                color: #fff;
+                font-weight: 300;
+                letter-spacing: 1px;
+                text-align: center;
+                line-height: 24px
+            }
+
+            .scroll_container_sub.pbazy,.rightbar #quicksignmatch-top {
+                background-color: #93c4e4;
+                background: linear-gradient(207deg,#93c5e4 19%,#0b6cb3 115%)
+            }
+
+            span.widgettext {
+                margin-top: -10px
+            }
+
+            .widgettext span {
+                display: block;
+                margin: -20px auto 19px;
+                text-transform: uppercase;
+                border-bottom: 1px solid #fff;
+                width: fit-content;
+                font-size: 14px;
+                font-weight: 300
+            }
+
+            .scroll_container_sub.compzatl {
+                background-color: #ff8b8b;
+                background: linear-gradient(220deg,rgb(255 139 139) 13%,rgb(142 127 195) 107%)
+            }
+
+            .scroll_container_sub.traoza {
+                background-color: #b29cd8;
+                background: linear-gradient(220deg,rgb(177 156 216) 13%,rgb(92 88 164) 107%)
+            }
+
+            .ChangeHoroTime>a,.horoscope_archive_month h3 a,.mightlike .tittle a,.navitems a,.readreport a,.rightbar .tittle a,.rrssb-buttons a,.textbar.ele.add a,.w-col.w-col-4 a {
+                text-decoration: none
+            }
+
+            #scrollBtn {
+                opacity: 0;
+                position: fixed;
+                bottom: 70px;
+                right: 20px;
+                width: 50px;
+                height: 50px;
+                z-index: 99;
+                background-color: rgba(255,255,255,.43);
+                color: #564a6a;
+                cursor: pointer;
+                display: flex!important;
+                align-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+                justify-content: center;
+                border-radius: 35%;
+                font-size: 15px;
+                border: 2px solid #8e8e8e;
+                transition: opacity .4s
+            }
+
+            .horotilza {
+                font-weight: 300;
+                border-bottom: 2px solid #ddd;
+                margin: 10px auto
+            }
+
+            .PlaneRow,.quoteM {
+                padding: 0 15px 10px;
+                font-weight: 300
+            }
+            .headline-div-block {
+                margin: 0 0 20px 0;
+            }
+
+            .headline-div-block li {
+                -moz-osx-font-smoothing: grayscale;
+                -webkit-font-smoothing: antialiased;
+                line-height: 1.65;
+                font-size: 17px;
+                color: #262626;
+                font-weight: 300
+            }
+
+            #AZS .mightlike.bhoroza p {
+                padding: 15px 0!important;
+                border-bottom: 0
+            }
+
+            img.signsaddimg {
+                border: 1px solid #ddd;
+                padding: 5px;
+                margin: 10px auto 25px;
+                display: inherit
+            }
+
+            .mightlike h3 {
+                font-size: 30px;
+                border-bottom: 2px solid #a9131f24;
+                margin: 20px auto;
+                font-weight: 300;
+                padding-bottom: 0
+            }
+
+            .Author-Bio {
+                background: #fbebe5;
+                padding: 20px;
+                margin-bottom: 20px!important
+            }
+
+            .Author-avatar img,.signs .headline-div-block .Author-avatar img {
+                border-radius: 50%;
+                margin: 5px 20px!important;
+                position: unset!important;
+                padding: 5px!important;
+                background: #ebd2c9;
+                border: 0;
+                width: 90px;
+                height: 90px!important
+            }
+
+            #birthday,.Author-avatar,.field-consent,.form-group,.mdz,.topast,.w-dropdown {
+                float: left
+            }
+
+            #AZS #blog-index h3 {
+                font-weight: 300;
+                padding: 5px 0
+            }
+
+            .HoroIndexAZ a {
+                color: #000!important
+            }
+
+            #contentblog h1,.copyright,.tzs1 b,a.read_more,div.scrollmenu a {
+                letter-spacing: 1px
+            }
+
+            .horobqz,.morechose,.rrssb-buttons::before,.subscribeform .hititle,a.read_more {
+                text-transform: uppercase
+            }
+
+            input#CONSENT,input#CONSENT_ {
+                display: none
+            }
+
+            .sharebtn {
+                position: absolute;
+                bottom: 50px;
+                width: 50px;
+                height: 50px;
+                right: 0;
+                border: 1px solid #ddd;
+                background: #fff;
+                border-right: 0px;
+                border-bottom: 0;
+                padding: 10px;
+                border-top-left-radius: 5px
+            }
+
+            #AZS a.mzkaidi {
+                background: #fff;
+                border: 1px solid #a0adba
+            }
+
+            .subscribeform .hititle {
+                font-size: 14px;
+                margin-top: -5px;
+                padding-bottom: 15px;
+                color: #37104a;
+                font-weight: 600;
+                letter-spacing: 1px
+            }
+
+            #quicksignmatch-menu .smwrapper form,.dropdown-list a,div.scrollmenu {
+                white-space: nowrap
+            }
+
+            #AZS .hzrightz p {
+                font-size: 12px
+            }
+
+            .compatibility .headline-div-block h1 span {
+                font-size: 50%;
+                text-transform: uppercase;
+                color: #444;
+                background: #fbf6f5;
+                padding: 5px 10px;
+                border-radius: 5px;
+                position: relative;
+                top: -5px
+            }
+
+            .strwek .hzrightz {
+                margin-top: 15px;
+                padding-right: 15px
+            }
+
+            .hzcent {
+                padding-top: 10px;
+                margin-bottom: -10px
+            }
+
+            .hzrightz {
+                text-align: right
+            }
+
+            #AZS .hzrightz a,.DailyL {
+                display: inline
+            }
+
+            .bitemz {
+                clear: both;
+                display: flex;
+                flex-wrap: wrap
+            }
+
+            .rightbar .form-group.submit,.tarot-cards-row {
+                width: 100%
+            }
+
+            .consentdiv a {
+                height: 30px;
+                padding-top: 10px;
+                position: relative;
+                top: -10px
+            }
+
+            #blog-index h1,.tarot-box {
+                padding: 25px
+            }
+
+            .masuba {
+                padding: 35px 25px 10px;
+                border: 1px solid #e2e2e2;
+                width: 90%;
+                margin: 30px auto 10px;
+                background: #fcfcfc;
+                border-radius: 5px
+            }
+
+            #AZS .single_Horoscope .zod-nav {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                padding: 15px;
+                margin-top: 0;
+                margin-bottom: 0
+            }
+
+            .single_Horoscope a.zod-next:after,.single_Horoscope a.zod-prev:before {
+                content: ">";
+                position: relative;
+                top: -1px;
+                font-size: 14px;
+                color: silver;
+                margin-left: 5px
+            }
+
+            .single_Horoscope a.zod-prev:before {
+                content: "<"!important;
+                margin-right: 10px!important;
+                margin-left: 0
+            }
+
+            #zodiac-calendar-input .smwrapper button {
+                margin-top: 12px;
+                background: #f9f7fe!important;
+                width: 94%!important;
+                color: #aa90b6!important;
+                border: 1px solid #aa90b6!important
+            }
+
+            #zodiac-calendar-input select {
+                border: 0
+            }
+
+            .headline-div-block ul {
+                margin-left: 10px;
+                margin-right: 10px
+            }
+
+            img.horindeximg {
+                width: 65px;
+                height: 65px;
+                margin: -5px auto 10px;
+                display: block
+            }
+
+            .single_Horoscope .horo_inner_i p {
+                margin: 10px 0 25px!important
+            }
+
+            .single_Horoscope .MonthlyHoroscope,.single_Horoscope .WeeklyHoroscope,.single_Horoscope .dailyHoroscope {
+                float: left;
+                width: calc(50% - 24px);
+                margin: 0 12px 25px
+            }
+
+            .tzs1 b {
+                font-weight: 300;
+                color: #1f1437;
+                background: #fbf6f5;
+                padding: 2px 5px
+            }
+
+            .strwek b,.tzs1 span b {
+                background: 0 0;
+                font-weight: 600
+            }
+
+            #table-of-contents .contents,.appdiv a,.astroguide .contents,.strwek b,body,html {
+                padding: 0
+            }
+
+            .tzs1 span b {
+                color: #a13f3f;
+                font-weight: 400
+            }
+
+            .imgh_horo img.image-port.horo {
+                width: 100px;
+                height: 100px;
+                margin-bottom: 0;
+                margin-top: 0
+            }
+
+            .horoscope_archive_month {
+                display: block;
+                overflow: hidden;
+                margin: 5px;
+                padding: 25px 5px;
+                height: initial;
+                text-align: center
+            }
+
+            .horoscope_archive_month li a {
+                font-size: 13px;
+                font-weight: 400!important;
+                border-bottom: 2px solid #ddd;
+                padding-bottom: 1px;
+                text-decoration: none
+            }
+
+            .horoscope_archive_month li {
+                margin: 5px;
+                display: inline-block;
+                text-align: center
+            }
+
+            .horoscope_archive_month h3 {
+                font-size: 25px;
+                margin-bottom: 20px!important
+            }
+
+            .daily_horoscope_row h2 a {
+                text-decoration: none;
+                font-size: 18px
+            }
+
+            .daily_horoscope_row {
+                margin: 50px 0;
+                padding: 0
+            }
+
+            a.read_more {
+                font-weight: 600!important;
+                text-align: center;
+                display: block;
+                text-decoration: none;
+                border-bottom: 3px solid #e0dbe2;
+                width: fit-content;
+                margin: auto;
+                padding-bottom: 1px;
+                color: #1f1437!important
+            }
+
+            .horoscope_conainter_b {
+                margin-top: 0;
+                background: #fefdfc
+            }
+
+            #horoscopes-page .ChangeHoroTime>a,.frontpage .ChangeHoroTime>a {
+                font-weight: 300!important;
+                color: #1f1437!important
+            }
+
+            .textbar.ele.add p a {
+                border-bottom: 3px solid #27134d24;
+                line-height: 2
+            }
+
+            img.image-port.horo.horoindexz {
+                display: inline-block;
+                position: unset;
+                text-align: center;
+                float: none
+            }
+
+            .imgh_horo {
+                margin-top: 5px;
+                margin-bottom: -45px;
+                text-align: center
+            }
+
+            .textbar.ele.add p {
+                font-size: 15px;
+                padding-bottom: 10px;
+                padding-top: 10px
+            }
+
+            #table-of-contents h2 {
+                border: 0!important;
+                font-size: 1.2em
+            }
+
+            .frontpagecontin span.color,.strwek b {
+                color: #1f1437
+            }
+
+            .strwek {
+                padding: 0 0 20px
+            }
+
+            .navbar-form select {
+                border: 1px solid #eee;
+                border-radius: 5px
+            }
+
+            .readreport {
+                max-width: 250px;
+                margin: auto
+            }
+
+            #contentblog h1 {
+                text-transform: capitalize;
+                border-top: 1px solid #ddd;
+                border-bottom: 1px solid #ddd;
+                padding: 15px 0!important
+            }
+
+            #page-content .signs .headline-div-block p {
+                margin-bottom: 30px
+            }
+
+            .rrssb-buttons::before {
+                margin-top: 10px;
+                color: #1f1437;
+                display: block;
+                content: "Share";
+                margin-bottom: 5px;
+                font-size: 13px;
+                font-weight: 800
+            }
+
+            .guidetop h2 {
+                clear: both;
+                margin-bottom: -5px;
+                margin-top: 10px
+            }
+
+            span.SignDate {
+                color: #000;
+                font-weight: 300;
+                font-size: 12px
+            }
+
+            span.ppz {
+                margin-left: 5px
+            }
+
+            .HoroIn {
+                background: 0 0;
+                margin: 15px 0 25px;
+                padding: 20px 0 10px;
+                text-align: center
+            }
+
+            img.compatibility-chart {
+                float: right;
+                width: 133px;
+                height: 133px;
+                padding: 10px
+            }
+
+            .HoroIn p {
+                border: none!important;
+                padding: 0!important
+            }
+
+            .textbar.ele.add p:nth-of-type(-n+6) {
+                border-bottom: 1px solid #e9e9e9
+            }
+
+            .portfolio-image {
+                border-radius: 5px;
+                border: 1px solid #fee3e2
+            }
+
+            .rrssb-buttons.clearfix.hrshi {
+                margin: 0 0 8px
+            }
+
+            #additional-signs .compatibilitylist li a {
+                padding: 9px!important;
+                text-decoration: none;
+                font-size: 12px!important;
+                margin: 10px 6px 0 0!important
+            }
+
+            .single_Horoscope .ChangeHoroTime {
+                margin-top: 30px;
+                margin-bottom: 55px
+            }
+
+            #zodiac-signs a.tittle.portfolio-2 {
+                letter-spacing: 1px;
+                font-weight: 300;
+                color: #444;
+                transform: scale(1,1.1);
+                text-decoration: none;
+                margin-top: 10px;
+                display: block
+            }
+
+            .signs .smwrapper {
+                border: none!important;
+                margin-top: -10px!important
+            }
+
+            .singleHoro span.headerline-section.small {
+                padding-right: 0!important;
+                padding-left: 0!important;
+                text-align: center;
+                border: none;
+                margin-bottom: -5px;
+                margin-top: 15px
+            }
+
+            span.headerline-section.small {
+                display: block;
+                color: #333;
+                text-align: center;
+                padding: 5px 5px 0;
+                font-weight: 300;
+                font-size: 15px
+            }
+
+            .hdboxz p {
+                font-size: 13px!important
+            }
+
+            h2#horoscope-dates span.color {
+                font-weight: 800
+            }
+
+            .hdboxz {
+                margin-bottom: 15px;
+                padding: 10px 20px;
+                font-size: 12px!important
+            }
+
+            .hdboxz a {
+                padding: 5px 0;
+                margin: 0;
+                display: inline-block;
+                text-decoration: none;
+                font-size: 15px
+            }
+
+            #additional-signs h3 {
+                font-weight: 300;
+                color: #5a5a5a;
+                padding: 10px;
+                margin: 25px 0 -15px;
+                text-align: center;
+                text-transform: uppercase
+            }
+
+            .capped img.image-left {
+                float: left;
+                margin: 5px 15px
+            }
+
+            #table-of-contents li {
+                display: inline-block;
+                margin: 5px;
+                list-style: none;
+                border: 1px solid #d5b4f2;
+                padding: 5px 10px;
+                border-radius: 4px
+            }
+
+            #table-of-contents li a,.astroguide li a {
+                text-decoration: none;
+                font-weight: 300
+            }
+
+            p.blog-text._2 {
+                padding: 15px 0 5px
+            }
+
+            .ChangeHoroTime.fbziz {
+                margin-top: 25px
+            }
+
+            .t_hold_h {
+                padding: 15px 5px 5px 20px
+            }
+
+            @media (min-width: 1470px) {
+                .rrssb-buttons li {
+                    margin-top:10px;
+                    border-radius: 2px
+                }
+
+                #AZS .rrssb-buttons {
+                    width: 50px;
+                    position: fixed;
+                    top: 350px;
+                    display: flex;
+                    left: calc(calc(100% - 1450px)/ 2);
+                    flex-wrap: wrap
+                }
+
+                #AZS .rrssb-buttons::before {
+                    display: none
+                }
+            }
+
+            @media (max-width: 275px) {
+                #AZS .changeSign,#AZS .s_cont {
+                    display:none
+                }
+            }
+
+            @media (max-width: 317px) {
+                #AZS .changeSign {
+                    width:38%
+                }
+
+                #AZS .s_cont {
+                    display: none;
+                    margin-right: 2px;
+                    width: 12%
+                }
+            }
+
+            @media (max-width: 340px) {
+                #AZS h2#current-sign {
+                    padding-right:5px;
+                    text-align: right
+                }
+
+                .ChangeHoroTime>a {
+                    font-size: 10px!important
+                }
+
+                #astroguide li,#table-of-contents li {
+                    font-size: 11px!important
+                }
+
+                .HoroSign img.HoroIndexImg,.portfolio .frontpage .portfolio-image img.image-port {
+                    width: 68px;
+                    height: 68px
+                }
+
+                .signs #horoscope .w-tab-pane p a {
+                    font-size: 14px!important
+                }
+
+                .w-container .comind {
+                    margin: 10px 0 0!important
+                }
+
+                span.bdaylabel {
+                    font-size: 11px
+                }
+            }
+
+            .changeSign a {
+                color: #1f1437;
+                text-decoration: none
+            }
+
+            @media (min-width: 1201px) {
+                .b.w--open {
+                    left:-67px
+                }
+
+                .w--open .compa,.w--open .hsg,nav.w-dropdown-list.dropdown-list.blue.w--open {
+                    width: 950px;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-around
+                }
+
+                .red.w--open {
+                    left: -200px!important
+                }
+
+                .s_cont,.topast {
+                    position: absolute
+                }
+
+                .nav-link {
+                    cursor: pointer
+                }
+
+                .navitems .navigation {
+                    padding-left: 250px
+                }
+
+                .appdiv,.navbar-form.navbar-right {
+                    display: none
+                }
+
+                .topast {
+                    z-index: 9999
+                }
+
+                img.appd {
+                    width: 300px;
+                    height: 191px
+                }
+
+                .s_cont {
+                    right: 215px;
+                    top: 8px;
+                    z-index: 99999;
+                    width: 35px!important
+                }
+
+                .changeSign {
+                    display: none!important
+                }
+            }
+
+            div.scrollmenu {
+                background-color: #fff;
+                overflow: auto;
+                -webkit-overflow-scrolling: touch;
+                -ms-overflow-style: -ms-autohiding-scrollbar
+            }
+
+            div.scrollmenu a {
+                display: inline-block;
+                text-align: center;
+                padding: 5px 14px;
+                font-size: 12px;
+                font-weight: 400!important;
+                margin: 10px 0
+            }
+
+            .scrollmenu::-webkit-scrollbar {
+                display: none
+            }
+
+            .s_cont {
+                float: right;
+                margin-right: 8px;
+                margin-top: 6px;
+                padding: 4px 8px 7px 6px;
+                width: 30px;
+                margin-left: auto
+            }
+
+            .s_cont .search__circle {
+                border: 1px solid #b9b6b6!important
+            }
+
+            .s_cont .search__rectangle {
+                border-color: #d2cece
+            }
+
+            .cn-icon,.en-icon,.es-icon,.fr-icon,.in-icon,.pt-icon {
+                background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+            }
+
+            #additional-signs .smwrapper,#birthday,#dfa,#skm-m-mid,#skm-m-btm,#skm-d-mid,.ChangeHoroTime,.additionalinfo h3,.comind,.comind .signsmatch,.comind h2,.compbottom i[class*=icon-zodiac],.footer-right,.headline-div-block .smwrapper,.headline-div-block h1,.headline-div-block h2,.readreport a,.rrssb-buttons,h4.headerline-section {
+                text-align: center
+            }
+
+            @media (min-width: 550px) {
+                .skills.div.inpage {
+                    margin-top:-10px;
+                    margin-bottom: 0;
+                    overflow: hidden
+                }
+
+                .w-container.compatibility h2 {
+                    background: 0 0!important;
+                    margin-bottom: 20px
+                }
+            }
+
+            .mightlike a,.zC .smwrapper.menu {
+                background: 0 0
+            }
+
+            .rightbar .smwrapper {
+                color: #37104a;
+                padding: 25px 10px 25px
+            }
+
+            .smwrapper {
+                color: #7b7171
+            }
+
+            .comind a.button._2 {
+                width: 75%;
+                margin: auto
+            }
+
+            #zodiac-signs {
+                padding: 0 10px
+            }
+
+            .monthlyHoroscope,.weeklyHoroscope,.yesterdaysHoroscope {
+                padding: 12px 0
+            }
+
+            @media (max-width: 450px) {
+                .w-container.signs .headline-div-block h1 {
+                    font-size:24px!important
+                }
+
+                #zodiac-signs a.tittle.portfolio-2 {
+                    margin-top: 5px!important
+                }
+
+                #table-of-contents li,.astroguide li {
+                    font-size: 13px
+                }
+
+                .singleHoro h4.headerline-section.small {
+                    padding-top: 2px!important
+                }
+
+                .headline-div-block .single_Horoscope {
+                    margin: 10px 0!important
+                }
+
+                .w-container.singleHoro .headline-div-block h1 {
+                    text-align: center;
+                    padding: 10px 25px!important;
+                    font-size: 24px!important;
+                    width: 98%;
+                    margin: auto
+                }
+
+                .singleHoro img.image-port.horo {
+                    margin: -10px 10px 0 0!important;
+                    padding-bottom: 0;
+                    height: 100px;
+                    width: 100px
+                }
+
+                .singleHoro .HoroSContiner {
+                    margin-top: 15px;
+                    clear: both
+                }
+
+                .compaimgz img.compatibility-chart {
+                    width: 300px;
+                    height: 300px;
+                    padding: 10px;
+                    float: none
+                }
+            }
+
+            .topmad {
+                margin: 0;
+                background: #fff;
+                padding: 5px 0 10px
+            }
+
+            .comind span.color {
+                color: unset!important
+            }
+
+            @media (max-height: 650px) {
+                #add-nav ul .ingo {
+                    padding:5px 6px!important;
+                    font-size: 10px!important
+                }
+
+                #add-nav ol .ingo {
+                    padding: 12px 6px!important;
+                    font-size: 12px!important
+                }
+            }
+
+            @media (max-width: 740px) {
+                #add-nav-btn {
+                    bottom:40px
+                }
+
+                #add-nav {
+                    bottom: 59px
+                }
+            }
+
+            @media (min-width: 1200px) and (max-width:1410px) {
+                #AZS .navitems .nav-link a:after {
+                    margin-left:5px;
+                    margin-top: 4px;
+                    margin-right: 5px
+                }
+
+                .w-dropdown-toggle.nav-link a {
+                    font-size: 10px!important;
+                    padding: 15px 2px 20px;
+                    margin-top: 15px
+                }
+            }
+
+            @media (min-width: 991px) and (max-width:1200px) {
+                span.headerline-section.small {
+                    margin:-20px -15px 25px !important;
+                }
+
+                #AZS #Footer {
+                    padding-bottom: 15px!important
+                }
+
+                #AZS #Footer .appd {
+                    margin-top: 50px
+                }
+
+                #AZS .HoroIndexAZ {
+                    max-width: 780px;
+                    margin: 50px auto 25px
+                }
+
+                #AZS #page-content {
+                    padding-left: 15px;
+                    padding-right: 15px
+                }
+
+                #AZS .headline-div-block h1 {
+                    font-size: 35px
+                }
+
+                #AZS .rightbar {
+                    width: 350px
+                }
+
+
+                .headline-div-block {
+                    float: left
+                }
+            }
+
+            @media (min-width: 728px) and (max-width:1200px) {
+                
+
+                #AZS .azshby {
+                    height: 90px
+                }
+
+                #AZS .azsholdd {
+                    height: 110px!important
+                }
+
+                #add-nav-btn {
+                    bottom: 85px
+                }
+
+                #add-nav {
+                    bottom: 110px
+                }
+            }
+
+            @media (max-width: 1200px) {
+                #Footer .appd,#zodiac-calendar-input,.comind>div {
+                    display:block
+                }
+
+                .social {
+                    padding-bottom: 10px
+                }
+
+                #skm-m-top,.topa {
+                    text-align: center
+                }
+
+                .scrlw,.topa .sktmcls {
+                    display: block;
+                    position: absolute
+                }
+
+                .navbar div.scrollmenu a:last-child {
+                    margin-right: 10px!important
+                }
+
+                .nav-link.regblog {
+                    line-height: 35px
+                }
+
+                .comind>div {
+                    width: 90%;
+                    margin: 30px auto
+                }
+
+                .appdiv img.horoapp {
+                    width: 200px;
+                    height: 34px;
+                    margin-left: -7px;
+                    margin-bottom: 5px
+                }
+
+                .navbar-form #quicksignmatch-menu {
+                    margin-bottom: 5px;
+                    border-bottom: 1px solid #eee
+                }
+
+                .w-dropdown.dropdown .cft {
+                    line-height: 30px
+                }
+
+                .w-dropdown.dropdown {
+                    border-bottom: 1px solid #efefef;
+                    margin: 2px 0 0;
+                    overflow: hidden
+                }
+
+                img.logo {
+                    height: 18px;
+                    width: 122.02px
+                }
+
+                .navbar div.scrollmenu {
+                    border-bottom: 1px solid #edebf3;
+                    text-align: center;
+                    padding-left: 5px;
+                    background: #fff;
+                    margin-top: 8px;
+                    padding-bottom: 2px;
+                    border-top: 1px solid #edebf3
+                }
+
+                a.selectedzz {
+                    background: #f9f7fe!important;
+                    color: #1b1717!important;
+                    border: 1px solid #eae5f6!important
+                }
+
+                .navbar div.scrollmenu a {
+                    margin: 3px 2px 11px;
+                    font-weight: 300!important;
+                    position: relative;
+                    top: 4px;
+                    letter-spacing: .075em;
+                    font-size: 11px;
+                    color: #000;
+                    text-decoration: none;
+                    border: 1px solid #f6efef;
+                    border-radius: 8px;
+                    text-align: center;
+                    background: #fdfbfb;
+                    padding: 8px 10px
+                }
+
+                #Footer .appd {
+                    padding: 30px!important;
+                    overflow: hidden;
+                    margin: auto;
+                    height: 80%!important;
+                    width: 100%!important
+                }
+
+                .frontpage .portfolio-image img.image-port,img.HoroIndexImg {
+                    width: 81px;
+                    height: 81px;
+                    border-radius: 50%
+                }
+
+                .navbar-fixed-top .w-container {
+                    margin-bottom: -9px
+                }
+
+                #s_containerM {
+                    display: none
+                }
+
+                .search-container {
+                    display: none;
+                    background: #f9f7fe!important
+                }
+
+                .topa,.topa .sktmcls {
+                    left: 0;
+                    background: #fff;
+                    padding-top: 0;
+                    border-top: 1px solid #ddd
+                }
+
+                .w-dropdown.e .nav-link a {
+                    pointer-events: all!important;
+                    cursor: auto!important
+                }
+
+                .topa {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    width: 100%;
+                    position: fixed;
+                    bottom: 0;
+                    margin: 0;
+                    z-index: 999999999;
+                    padding-bottom: 0
+                }
+
+                #add-nav-btn {
+                    right: -12px
+                }
+
+                .topa .sktmcls {
+                    font-weight: 300!important;
+                    content: "✖";
+                    height: 20px;
+                    width: 20px;
+                    bottom: 50px;
+                    margin-bottom: 0;
+                    border-top-right-radius: 5px;
+                    font-size: 15px;
+                    padding-left: 4px;
+                    color: #454545!important;
+                    padding-right: 5px;
+                    border-right: 1px solid #ddd
+                }
+            }
+
+            #add-nav header,#calendar header,.navitems,.search,.w-dropdown,img.heart-match {
+                position: relative
+            }
+
+            .horopagego,.w-tab-pane p a {
+                color: #8532cb!important;
+                text-decoration: none;
+                padding: 10px 19px;
+                display: table;
+                max-width: 100%;
+                margin: 20px auto 10px;
+                border-radius: 4px;
+                font-weight: 800!important;
+                text-align: center
+            }
+
+            @font-face {
+                font-family: Zodiac;
+                src: url(https://www.zodiacsign.com/fonts/zodiac-font.eot?b0k9di);
+                src: url(https://www.zodiacsign.com/fonts/zodiac-font.eot?b0k9di#iefix) format('embedded-opentype'),url(https://www.zodiacsign.com/fonts/zodiac-font.ttf?b0k9di) format('truetype'),url(https://www.zodiacsign.com/fonts/zodiac-font.woff?b0k9di) format('woff'),url(https://www.zodiacsign.com/fonts/zodiac-font.svg?b0k9di#zodiac-font) format('svg');
+                font-weight: 400;
+                font-style: normal;
+                font-display: swap
+            }
+
+            #sign-selecter li::before,.navitems .cf::before,.navitems .ch::before,[class*=" icon-zodiac"],[class^=icon-zodiac] {
+                font-family: Zodiac!important;
+                font-style: normal;
+                font-weight: 400;
+                font-variant: normal;
+                text-transform: none;
+                line-height: 1;
+                display: inline-block;
+                vertical-align: middle;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale
+            }
+
+            #select-aquarius:before,.cf.aq:before,.ch.aq:before,.icon-zodiac-aquaris:before {
+                content: "\e900";
+                color: #88c54c
+            }
+
+            #select-aries:before,.cf.ar:before,.ch.ar:before,.icon-zodiac-aries:before {
+                content: "\e901";
+                color: #45a6f5
+            }
+
+            #select-cancer:before,.cf.can:before,.ch.can:before,.icon-zodiac-cancer:before {
+                content: "\e902";
+                color: #a94ac0
+            }
+
+            #select-capricorn:before,.cf.ca:before,.ch.ca:before,.icon-zodiac-capricorn:before {
+                content: "\e903";
+                color: #bccd00
+            }
+
+            #select-gemini:before,.cf.ge:before,.ch.ge:before,.icon-zodiac-gemini:before {
+                content: "\e904";
+                color: #8054c5
+            }
+
+            #select-leo:before,.cf.le:before,.ch.le:before,.icon-zodiac-leo:before {
+                content: "\e905";
+                color: #e4477e
+            }
+
+            #select-libra:before,.cf.li:before,.ch.li:before,.icon-zodiac-libra:before {
+                content: "\e906";
+                color: #f46027
+            }
+
+            #select-pisces:before,.cf.pi:before,.ch.pi:before,.icon-zodiac-pisces:before {
+                content: "\e907";
+                color: #009687
+            }
+
+            #select-sagittarius:before,.cf.sa:before,.ch.sa:before,.icon-zodiac-sagittarius:before {
+                content: "\e908";
+                color: #ffcd22
+            }
+
+            #select-scorpio:before,.cf.sc:before,.ch.sc:before,.icon-zodiac-scorpio:before {
+                content: "\e909";
+                color: #f59b07
+            }
+
+            #select-taurus:before,.cf.ta:before,.ch.ta:before,.icon-zodiac-taurus:before {
+                content: "\e90a";
+                color: #3c55af
+            }
+
+            #select-virgo:before,.cf.vi:before,.ch.vi:before,.icon-zodiac-virgo:before {
+                content: "\e90b";
+                color: #ed4d41
+            }
+
+            [class*=" icon-zodiac"]::before,[class^=icon-zodiac]::before {
+                line-height: 1em;
+                display: inline-block;
+                text-align: center
+            }
+
+            [class*=" icon-zodiac"].o::before,[class^=icon-zodiac].o::before {
+                background: #eee;
+                border-radius: 50%;
+                color: #fff;
+                padding-top: .2em;
+                height: 1.4em;
+                width: 1.4em
+            }
+
+            #sign-selecter li::before,.navitems .cf::before,.navitems .ch::before {
+                padding-top: 5px;
+                border-radius: 30px;
+                vertical-align: middle;
+                text-align: center
+            }
+
+            #select-aquarius:before,.dropdown-list a.aq:before,.icon-zodiac-aquaris.o:before {
+                background-color: #fff;
+                color: #88c54c
+            }
+
+            #select-aries:before,.dropdown-list a.ar:before,.icon-zodiac-aries.o:before {
+                background-color: #fff;
+                color: #45a6f5
+            }
+
+            #select-cancer:before,.dropdown-list a.can:before,.icon-zodiac-cancer.o:before {
+                background-color: #fff;
+                color: #a94ac0
+            }
+
+            #select-capricorn:before,.dropdown-list a.ca:before,.icon-zodiac-capricorn.o:before {
+                background-color: #fff;
+                color: #bccd00
+            }
+
+            #select-gemini:before,.dropdown-list a.ge:before,.icon-zodiac-gemini.o:before,.navitems .hsg .ch::before {
+                background-color: #fff;
+                color: #8054c5
+            }
+
+            #select-leo:before,.dropdown-list a.le:before,.icon-zodiac-leo.o:before,.navitems .compa .cf::before {
+                background-color: #fffd;
+                color: #e4477e
+            }
+
+            #select-libra:before,.dropdown-list a.li:before,.icon-zodiac-libra.o:before {
+                background-color: #fff;
+                color: #f46027
+            }
+
+            #select-pisces:before,.dropdown-list a.pi:before,.icon-zodiac-pisces.o:before {
+                background-color: #fff;
+                color: #009687
+            }
+
+            #select-sagittarius:before,.dropdown-list a.sa:before,.icon-zodiac-sagittarius.o:before {
+                background-color: #fff;
+                color: #ffcd22
+            }
+
+            #select-scorpio:before,.dropdown-list a.sc:before,.icon-zodiac-scorpio.o:before {
+                background-color: #fff;
+                color: #f59b07
+            }
+
+            #select-taurus:before,.dropdown-list a.ta:before,.icon-zodiac-taurus.o:before {
+                background-color: #fff;
+                color: #3c55af
+            }
+
+            #select-virgo:before,.dropdown-list a.vi:before,.icon-zodiac-virgo.o:before {
+                background-color: #fff;
+                color: #ed4d41
+            }
+
+            #sign-selecter li::before {
+                font-size: 30px!important;
+                width: 25px!important;
+                height: 25px!important;
+                margin-top: -18px!important;
+                background: 0 0!important;
+                display: inline-block;
+                margin-right: 15px
+            }
+
+            #select-aquarius:before {
+                color: #88c54c
+            }
+
+            #select-aries:before {
+                color: #45a6f5
+            }
+
+            #select-cancer:before {
+                color: #a94ac0
+            }
+
+            #select-capricorn:before {
+                color: #bccd00
+            }
+
+            #select-gemini:before {
+                color: #8054c5
+            }
+
+            #select-leo:before {
+                color: #e4477e
+            }
+
+            #select-libra:before {
+                color: #f46027
+            }
+
+            #select-pisces:before {
+                color: #009687
+            }
+
+            #select-sagittarius:before {
+                color: #ffcd22
+            }
+
+            #select-scorpio:before {
+                color: #f59b07
+            }
+
+            #select-taurus:before {
+                color: #3c55af
+            }
+
+            #select-virgo:before {
+                color: #ed4d41
+            }
+
+            body,html {
+                -webkit-text-size-adjust: 100%;
+                margin: 0
+            }
+
+            img {
+                max-width: 100%
+            }
+
+            *,:after,:before {
+                box-sizing: border-box;
+                outline: 0!important
+            }
+
+            #blog-index .fullwidth-text,.HoroSContiner .single_Horoscope,.single_Horoscope,h1,h2,h3,h4,h5,h6 {
+                margin: 0
+            }
+
+            #page-content .w-container,.container {
+                max-width: 1350px;
+                margin: 0 auto
+            }
+
+            .navitems .nav-link a,.navitems a,body {
+                font-family: sans-serif
+            }
+
+            button {
+                cursor: pointer;
+                -webkit-appearance: button
+            }
+
+            #page-content .w-container::after,.container::after,.navitems .navigation::after {
+                content: '';
+                clear: both;
+                display: block
+            }
+
+            ::selection {
+                background-color: #644480;
+                color: #e6d5f5
+            }
+
+            #slide-nav {
+                border-bottom: 1px solid #edebf3;
+                color: #1f1437;
+                background: #fff
+            }
+
+            .dropdown-list,.navitems {
+                background-color: #f9f7fe
+            }
+
+            #current-sign,.appdiv h4,.changeSign,.comind>br,.dropdown-list a br,.langselect h4,.navbar-toggle,.w-tab-pane {
+                display: none
+            }
+
+            .navitems {
+                z-index: 9;
+                display: table;
+                width: 100%;
+                color: #444
+            }
+
+            .navitems .navigation {
+                position: relative;
+                font-family: sans-serif!important
+            }
+
+            .navbar-header {
+                overflow: hidden;
+                padding: 0 15px
+            }
+
+            .dropdown-list {
+                display: none;
+                left: 0;
+                position: absolute;
+                top: 100%
+            }
+
+            .navitems a {
+                text-transform: uppercase;
+                display: block;
+                color: #2a2a2a;
+                font-size: 13px;
+                font-weight: 400;
+                padding: 23px 5px 14px
+            }
+
+            .navitems .cf::before,.navitems .ch::before {
+                font-size: 24px;
+                background: #45a6f5;
+                color: #fff;
+                width: 33px;
+                height: 33px;
+                display: inline-block;
+                margin-right: 9px;
+                border: 1px solid!important
+            }
+
+            .navitems a[class*=" ico-"]::before,.navitems a[class^=ico-]::before {
+                font-size: 37px;
+                vertical-align: middle;
+                background: #3c55af;
+                border-radius: 30px;
+                color: #fff;
+                width: 37px;
+                height: 37px;
+                display: inline-block;
+                text-align: center;
+                margin-right: 9px
+            }
+
+            .navitems .nav-link a {
+                letter-spacing: .075em;
+                font-weight: 600;
+                border-bottom: 5px solid transparent;
+                transition: .1s
+            }
+
+            .dropdown-list a {
+                display: block;
+                font-size: 16px;
+                font-weight: 300;
+                padding: 3px 10px
+            }
+
+            .langselect {
+                float: right
+            }
+
+            .langselect a {
+                display: inline-block;
+                padding: 10px;
+                margin: 13px 0;
+                width: 32px;
+                height: 32px
+            }
+
+            .en-icon {
+                background-position: 0 -64px
+            }
+
+            .es-icon {
+                background-position: -64px 0
+            }
+
+            .cn-icon {
+                background-position: -32px 0
+            }
+
+            .in-icon {
+                background-position: -32px -32px
+            }
+
+            .pt-icon {
+                background-position: -64px -32px
+            }
+
+            .fr-icon {
+                background-position: 0 -32px
+            }
+
+            .appdiv {
+                clear: both;
+                position: absolute;
+                bottom: 100%;
+                right: 0
+            }
+
+            .horoapp:hover {
+                opacity: 1
+            }
+
+            .horoapp {
+                opacity: .5;
+                width: 250px;
+                margin: 5px 0 5px 5px;
+                display: inline-block
+            }
+
+            .w-clearfix.social-dic-2 {
+                display: flex;
+                justify-content: center;
+                flex-wrap: wrap;
+                padding-bottom: 50px
+            }
+
+            #Footer .social a {
+                float: left;
+                display: block;
+                width: 37px;
+                height: 39px;
+                text-align: center;
+                padding: 5px 0;
+                margin: 8px 12px 8px 0;
+                border-radius: 5px
+            }
+
+            #quicksignmatch-menu {
+                display: block;
+                color: #fff;
+                position: absolute;
+                left: 100px;
+                bottom: 105%
+            }
+
+            #quicksignmatch-menu .smwrapper {
+                padding: 16px 2px 20px;
+                font-size: 18px;
+                text-align: center
+            }
+
+            #quicksignmatch-menu .smwrapper select {
+                width: 90px;
+                height: 38px;
+                vertical-align: middle
+            }
+
+            #quicksignmatch-menu .smwrapper button {
+                font-size: 14px;
+                padding: 0 25px;
+                width: auto;
+                line-height: 40px;
+                margin: 0 0 0 4px
+            }
+
+            @media (min-width: 1200px) {
+                #AZS .singleHoro span.headerline-section.small {
+                    margin:-48px -35px 25px !important
+                }
+
+                .comind .skills .w-container {
+                    min-height: 325px
+                }
+
+                .w-dropdown-toggle.nav-link a {
+                    transform: scale(1,1.1)
+                }
+
+                #Footer,.social {
+                    margin-top: 50px
+                }
+
+                .HoroSContiner .scroll_container,.signs .headline-div-block .scroll_container,.tarkma .scroll_container {
+                    padding: 0!important
+                }
+
+                #zodiac-calendar-input,.HoroSContiner .pnbtn,.signs .headline-div-block .pnbtn,.tarkma .pnbtn {
+                    display: none
+                }
+
+                .HoroSContiner .scroll_container_sub,.signs .headline-div-block .scroll_container_sub,.tarkma .scroll_container_sub {
+                    min-width: 30%;
+                    width: 30%;
+                    margin-top: 35px
+                }
+
+                #AZS .frontpagecontin .headline-div-block h1 {
+                    font-size: 35px
+                }
+
+                #AZS .ftopblock p {
+                    font-size: 18px!important
+                }
+                .blogImg {    
+                    padding: 15px;
+                    width: 400px;
+                    height: 400px;
+                    margin-right: 25px;
+                    float: left;
+                    border: 1px solid #ddd;
+                }
+                .blogImg img, .blogImg {
+                    object-fit: cover;
+                    max-width: 400px;
+                    height: 350px;
+                    overflow: hidden;
+                }
+                #AZS .navitems a:hover {
+                    text-decoration: underline
+                }
+
+                #AZS .navitems a {
+                    color: #444
+                }
+
+                .headline-div-block {
+                    float: left;
+                    border-top: none
+                }
+
+                .navbar-header .s_cont .search__circle {
+                    border: 2px solid #000!important
+                }
+
+                .navbar-header .s_cont .search__rectangle {
+                    border-color: #000
+                }
+
+                .tzs1 {
+                    overflow: hidden;
+                    margin: 20px 25px 10px 5px!important;
+                    padding: 20px 40px
+                }
+
+                .navbar-form #quicksignmatch-menu .smwrapper button {
+                    border-color: #fff;
+                    border-width: 2px
+                }
+
+                .navbar .w-container {
+                    position: fixed;
+                    z-index: 9999;
+                    width: 100%;
+                    height: 65px
+                }
+
+                footer {
+                    margin-top: 80px
+                }
+
+                .signs .headline-div-block .image-port.horo {
+                    position: unset!important;
+                    height: 50px!important;
+                    width: 50px
+                }
+
+                .signs .headline-div-block .image-port {
+                    position: relative;
+                    top: -110px;
+                    right: -55px;
+                    border: 1px solid #fafafa;
+                    border-radius: 50%;
+                    padding: 0!important;
+                    height: 285px!important;
+                    width: 285px
+                }
+
+                .strwek h2 {
+                    margin: 0
+                }
+
+                .tzs1 img {
+                    box-shadow: 0 0 10px 10px #f3f3f3
+                }
+
+                .headline-div-block h2 {
+                    font-weight: 300;
+                    border-top: none!important;
+                    border-bottom: 1px solid #ddd!important;
+                    margin-top: 30px;
+                    color: #1f1437;
+                    background: 0 0!important
+                }
+
+                .w-nav-menu.footer {
+                    margin-bottom: 0;
+                    padding-top: 20px;
+                    width: 800px;
+                    margin-top: -30px
+                }
+
+                #slidemenu .navitems {
+                    background-color: #fff
+                }
+
+                .dropdown-list {
+                    background: #fdfbfb;
+                    border: 1px solid #e6d7d7;
+                    margin-top: 0;
+                    border-top: 7px solid #fff!important;
+                    padding: 20px
+                }
+
+                body #Footer .appd {
+                    width: 300px;
+                    float: right;
+                    margin-top: -195px
+                }
+
+                #add-nav-btn {
+                    bottom: -20px
+                }
+
+                #add-nav {
+                    bottom: 0
+                }
+
+                .navitems .nav-link a:after {
+                    display: block;
+                    float: right;
+                    height: 5px;
+                    background: #ddd;
+                    width: 5px;
+                    margin-left: 12px;
+                    margin-top: 6px;
+                    margin-right: 5px;
+                    color: #fff;
+                    font-size: 20px;
+                    text-align: left;
+                    padding-right: 5px;
+                    content: "-"
+                }
+
+                .dropdown-list.w--open,.logo {
+                    display: block
+                }
+
+                #content .tzs1 h2 {
+                    margin-top: 25px!important;
+                    margin-bottom: 10px;
+                    font-size: 22px;
+                    margin-left: 0
+                }
+
+                .logo {
+                    height: 30px;
+                    width: 203.38px;
+                    margin-top: 15px;
+                    left: 5px;
+                    position: relative;
+                    top: 1px
+                }
+
+                #quicksignmatch-menu {
+                    top: 1px;
+                    bottom: unset!important
+                }
+
+                #comments {
+                    width: 1200px;
+                    margin: auto
+                }
+
+                img.appd.lazyloaded {
+                    float: right;
+                    margin-top: -200px;
+                    width: 300px!important
+                }
+            }
+
+            @media (max-width: 1200px) {
+                .changeSign,.navitems .cf::before,.navitems .ch::before,.navitems a[class*=" ico-"]::before,.navitems a[class^=ico-]::before,a.topast {
+                    float:left
+                }
+
+                img.appd {
+                    width: 250px;
+                    height: 255px
+                }
+
+                .logo,a.topast {
+                    height: 50px;
+                    display: block
+                }
+
+                .changeSign li,h2#current-sign {
+                    color: #1f1437;
+                    text-transform: capitalize
+                }
+
+                .dropdown-list.mobileshow {
+                    display: block
+                }
+
+                .topmenu span.ppz {
+                    color: #c5c3c3;
+                    margin-left: 5px;
+                    font-size: 15px
+                }
+
+                .topmenu #quicksignmatch-menu .smwrapper select {
+                    letter-spacing: 0;
+                    background-image: linear-gradient(45deg,transparent 50%,#ddd 50%),linear-gradient(135deg,#ddd 50%,transparent 50%),linear-gradient(to right,transparent,transparent);
+                    width: 90px!important;
+                    background-color: #fff;
+                    color: #1f1437;
+                    border: 1px solid #ddd;
+                    text-align: center
+                }
+
+                .topmenu #quicksignmatch-menu .smwrapper button {
+                    background: #f9f7fe!important;
+                    color: #575352!important;
+                    border: 1px solid #dfdde4!important;
+                    width: 85px!important;
+                    line-height: 34px;
+                    margin-left: 10px!important;
+                    height: 37px;
+                    padding: 0;
+                    font-weight: 400;
+                    letter-spacing: 1px;
+                    font-size: 12px
+                }
+
+                a.topast {
+                    width: 30%
+                }
+
+                #page-content.optout,.langselect h4 {
+                    opacity: .25;
+                    overflow: hidden;
+                    height: 100vh
+                }
+
+                .navbar-header {
+                    justify-content: space-between;
+                    flex-wrap: nowrap;
+                    flex-direction: row;
+                    padding: 0 5px!important;
+                    min-height: 50px;
+                    display: flex
+                }
+
+                #slide-nav {
+                    height: 50px;
+                    position: fixed;
+                    width: 100vw;
+                    z-index: 99999999;
+                    min-height: 0
+                }
+
+                #page-content {
+                    padding-top: 30px!important
+                }
+
+                #page-content.mpdz {
+                    padding-top: 100px!important;
+                    background: #fff
+                }
+
+                #nopf {
+                    margin-top: 10px
+                }
+
+                .singleHoro .headline-div-block h1 {
+                    text-align: center;
+                    padding: 15px 10px 2px!important
+                }
+
+                .single_Horoscope {
+                    margin: 15px 0!important
+                }
+
+                .logo {
+                    position: absolute;
+                    left: 13px;
+                    top: 16px
+                }
+
+                .arrowzi,.w-dropdown-toggle a {
+                    position: relative
+                }
+
+                .arrowzi {
+                    width: 1px;
+                    border-right: 5px solid transparent;
+                    border-top: 5px solid #1f1d1d;
+                    border-left: 5px solid transparent;
+                    height: 1px;
+                    top: 13px;
+                    left: 3px
+                }
+
+                .changeSign {
+                    width: 40%;
+                    padding-top: 5px;
+                    display: block
+                }
+
+                h2#current-sign {
+                    font-weight: 300;
+                    letter-spacing: 1px;
+                    text-align: center;
+                    display: block;
+                    height: 50px;
+                    margin-top: -10px;
+                    padding-top: 0;
+                    font-size: 14px;
+                    line-height: 58px
+                }
+
+                .changeSign li {
+                    list-style: none;
+                    font-size: 16px;
+                    padding: 2px 0 5px;
+                    font-family: sans-serif;
+                    font-weight: 400
+                }
+
+                ol#sign-selecter {
+                    left: 50%;
+                    transform: translate(-50%,0);
+                    width: 205px;
+                    text-align: left;
+                    z-index: 99999999999;
+                    margin: 1px 0 0;
+                    padding: 10px 25px 15px;
+                    border-bottom-right-radius: 10px;
+                    border-bottom-left-radius: 10px;
+                    position: absolute;
+                    line-height: 25px;
+                    background: #f9f7fe
+                }
+
+                .navbar-toggle {
+                    display: block;
+                    background: 0 0;
+                    border: 1px solid #ddd;
+                    width: 60px;
+                    height: 35px;
+                    color: #1f1437;
+                    font-size: 14px;
+                    font-weight: 500;
+                    border-radius: 3px;
+                    margin-top: 8px;
+                    text-transform: uppercase;
+                    margin-right: 2px;
+                    float: right;
+                    padding: 8px 8px 7px
+                }
+
+                .navbar-toggle>.icon-bar {
+                    width: 100%;
+                    display: block;
+                    height: 5px;
+                    background: #fff
+                }
+
+                .navbar-toggle>.icon-bar+.icon-bar {
+                    margin: 8px 0 0
+                }
+
+                #quicksignmatch-menu {
+                    position: static;
+                    margin-bottom: 10px
+                }
+
+                #quicksignmatch-menu .smwrapper {
+                    padding-top: 12px!important
+                }
+
+                .navitems {
+                    position: relative!important;
+                    top: 0!important;
+                    padding: 0 0 10px
+                }
+
+                .navitems .dropdown a {
+                    padding: 10px 15px;
+                    border: none!important
+                }
+
+                .navitems .nav-link a {
+                    font-size: 14px;
+                    font-weight: 300;
+                    color: #552369;
+                    text-transform: none;
+                    pointer-events: none;
+                    cursor: default
+                }
+
+                .w-dropdown:hover .w-dropdown-toggle a {
+                    color: #552269!important
+                }
+
+                .w-dropdown-toggle a::after {
+                    content: '';
+                    display: block;
+                    border-top: 7px solid #1e144f;
+                    border-left: 7px solid transparent;
+                    border-right: 7px solid transparent;
+                    position: absolute;
+                    top: 45%;
+                    right: 28px
+                }
+
+                .w-dropdown:hover .w-dropdown-toggle a::after {
+                    border-top: 7px solid #552269!important
+                }
+
+                .regblog a::after {
+                    display: none!important
+                }
+
+                .dropdown .dropdown-list {
+                    padding: 15px 5px
+                }
+
+                .dropdown.a .dropdown-list,.dropdown.b .dropdown-list,.dropdown.c .dropdown-list,.dropdown.d .dropdown-list {
+                    border-top: 1px solid #ddd
+                }
+
+                #slidemenu {
+                    overflow-y: scroll;
+                    position: fixed;
+                    z-index: 9;
+                    width: 350px;
+                    max-width: 100%;
+                    top: 0;
+                    bottom: 0;
+                    left: -350px;
+                    background-color: #f9f7fe;
+                    box-shadow: 7px 0 15px transparent
+                }
+
+                #slidemenu.slide-active {
+                    left: 0;
+                    box-shadow: 10px 10px 15px rgb(0 0 0 / 18%)
+                }
+
+                .appdiv {
+                    text-align: center;
+                    position: static;
+                    padding: 10px 15px 5px
+                }
+
+                .w-dropdown {
+                    display: block;
+                    float: none;
+                    clear: both
+                }
+
+                .dropdown-list {
+                    position: static;
+                    background: #fff;
+                    overflow: hidden
+                }
+
+                .dropdown .dropdown-list a {
+                    text-transform: none;
+                    width: 50%;
+                    float: left;
+                    font-size: 11px;
+                    font-weight: 300;
+                    white-space: normal;
+                    padding: 5px 10px;
+                    letter-spacing: 1px
+                }
+
+                .dropdown .dropdown-list a:nth-child(odd) {
+                    clear: both
+                }
+
+                .dropdown .dropdown-list a span {
+                    font-weight: 400;
+                    font-size: 13px
+                }
+
+                .dropdown-list a br {
+                    display: inline
+                }
+
+                .langselect {
+                    text-align: center;
+                    margin-top: 25px;
+                    float: none;
+                    padding: 10px 0 10px 15px
+                }
+
+                .langselect a {
+                    width: 27px;
+                    padding: 10px 0;
+                    vertical-align: middle;
+                    margin: 0
+                }
+
+                .horoapp {
+                    margin: 0 5px 0 0
+                }
+            }
+
+            #page-content {
+                clear: both;
+                color: #555;
+                padding-top: 40px;
+                background: #fff
+            }
+
+            #page-content a {
+                color: #a9131f;
+                font-weight: 400
+            }
+            #zodiac-signs {
+                margin-top: 20px;
+                display: flex;
+                flex-wrap: wrap;
+                padding: 0 10px;
+            }
+            .portfolio-image {
+                padding: 15px 5px 10px 5px;
+                width: calc(16.6% - 10px);
+                float: left;
+                padding: 15px 5px 10px;
+                margin-left: 5px;
+                margin-right: 5px;
+                margin-bottom: 10px;
+                border-radius: 5px;
+                text-align: center;
+                border: 1px solid #fee3e2;
+            }
+            .contactbox {
+                text-align: center;
+                width: 100%;
+                display: block;
+            }
+            .contactbox svg {
+                width : 18px ;
+                height: 21px;
+            }
+            h3 {
+                padding: 5px 15px
+            }
+
+            #page-content p {
+                margin: 0 0 15px
+            }
+
+            .comind .headline-div-block,.headline-div-block .headline-div-block {
+                float: none;
+                width: auto;
+                border: none;
+                padding: 0
+            }
+
+            .headline-div-block h1 {
+                font-weight: 400;
+                font-size: 55px;
+                letter-spacing: 1px;
+                margin: 0 -25px 10px;
+                padding: 7px 10px 15px
+            }
+
+            h4.headerline-section {
+                margin: 0 -25px;
+                padding: 5px 5px 0;
+                font-weight: 300;
+                font-size: 18px
+            }
+
+            .headline-div-block h2 {
+                text-transform: uppercase;
+                font-size: 20px;
+                padding: 10px 15px
+            }
+
+            #additional-signs form,#quicksignmatch form {
+                display: inline-block;
+                vertical-align: middle;
+                padding: 0 10px
+            }
+
+            .rightbar .smwrapper button {
+                height: 40px;
+                width: 95%!important;
+                margin: 5px 0!important;
+                background: transparent !important;
+                border: 1px solid #000 !important;
+                color: #000 !important
+            }
+
+            .wel h5 {
+                margin: -12px 0 20px!important
+            }
+
+            .main-b .headline-div-block {
+                border: none;
+                float: unset;
+                width: 100%
+            }
+
+            .wel h4,.wel h5 {
+                padding: 10px 0;
+                margin: 0;
+                text-align: center
+            }
+
+            .wel img {
+                width: 50px;
+                position: relative;
+                top: 75px;
+                height: 50px;
+                margin-top: -50px
+            }
+
+            @media (min-width: 991px) {
+                .singleHoro span.headerline-section.small {
+                    margin:-35px -35px 25px !important
+                }
+
+
+                .azsholdd {
+                    display: none
+                }
+
+                .rightbar form.subscribeform {
+                    border: 1px solid #f0dedd;
+                    padding: 50px 25px 10px;
+                    margin: 30px auto 50px;
+                    width: 345px;
+                    border-radius: 10px
+                }
+
+                #AZS span.headerline-section.small {
+                    font-size: 15px;
+                    width: fit-content;
+                    margin: -32px -15px 25px;
+                    padding: 10px 20px!important;
+                    border: 1px solid #f0dfdc;
+                    letter-spacing: 2px
+                }
+
+                .w-container.signs h2 {
+                    font-size: 40px
+                }
+
+                img.signsaddimg {
+                    height: 448px;
+                    width: 784px
+                }
+
+                .rightbar #quicksignmatch-top {
+                    border: 1px solid #eee;
+                    box-shadow: -1px 1px 9px 2px #eee;
+                    margin-bottom: 45px!important;
+                    padding: 35px 20px 15px
+                }
+
+                #Footer,#content #blog-index h1,#contentblog h1,h4.headerline-section {
+                    border-top: 1px solid #f2f2f2
+                }
+
+                #AZS .HoroIndexAZ {
+                    margin-top: 10px;
+                    margin-bottom: 10px
+                }
+
+                .compatibility .rightbar .textbar {
+                    height: auto
+                }
+
+                .bbleft.cal,.bbottom,.bbright-gm,.capped .compbottom,.compatibility .compbottom,.compbottom,.fntbt .why-us,.rightbar .w-row,.zimooo {
+                    height: 100%
+                }
+
+                #AZS .topa,.azshby,.comind #nopf,.footer-small form.subscribeform,.w-row .HoroIn {
+                    display: none
+                }
+
+                #AZS .topa,#horoscopes-page h1,.caldtmz,.compaimgz p,.ftopblock p,.headline-div-block h2,.portfolio-image,.rightbar h3,p.tkm {
+                    text-align: center
+                }
+
+                #dfa,#dfc,#dfca {
+                    max-width: 400px;
+                    min-height: 300px
+                }
+
+                #AZS .topa,#zodiac-signs,.innercompa {
+                    overflow: hidden
+                }
+
+                #AZS .tarot-box,#AZS .zod-nav {
+                    margin-top: 0
+                }
+
+                .caldtmz {
+                    background: #fbf6f5;
+                    padding: 20px 25px 10px;
+                    width: fit-content;
+                    float: left;
+                    margin: 25px;
+                    border-left: 4px solid #f5dad4;
+                    border-top-right-radius: 5px;
+                    border-bottom-right-radius: 5px
+                }
+
+                .tzs1 {
+                    padding: 25px
+                }
+
+                #AZS .topa {
+                    z-index: 9999999999999999;
+                    bottom: 0;
+                    left: 0;
+                    position: fixed;
+                    height: 100px!important;
+                    width: 100%;
+                    background-color: rgba(255,255,255,.6);
+                    transition: bottom .5s linear;
+                    border-top: 2px solid #ddd;
+                    justify-content: center;
+                    align-items: center
+                }
+
+                #AZS .topa .sktmcls {
+                    bottom: 65px!important;
+                    padding: 10px;
+                    color: #868484;
+                    position: fixed;
+                    left: 0
+                }
+
+                #AZS .rightbar p {
+                    padding: 10px 20px
+                }
+
+                #AZS .rightbar h3 {
+                    margin-bottom: 5px
+                }
+
+                #nopf,#nopfa,.DynLzld {
+                    display: none!important
+                }
+
+                div#google_ads_iframe_\/108450905\/Astrology-Top_0__container__ {
+                    margin: auto
+                }
+
+                .single_Horoscope .daily_horoscope_row {
+                    margin-bottom: 5px;
+                    margin-top: 10px
+                }
+
+                .subzdka {
+                    width: 700px;
+                    margin: 0 auto
+                }
+
+                .strwek {
+                    margin-top: 15px!important;
+                    margin-bottom: 0
+                }
+
+                .w-col-4 .tittle._2 {
+                    line-height: 1.5;
+                    margin: 0 0 -10px;
+                    letter-spacing: 1px;
+                    padding: 0 10px
+                }
+
+                #blog-index .div-all-in>.w-row {
+                    max-height: 125px
+                }
+
+                .frontpagecontin .media-section {
+                    padding: 0 30px
+                }
+
+                .w-container .headline-div-block h2 {
+                    border-top: 0!important;
+                    clear: both
+                }
+
+                .mightlike .w-col.w-col-4 {
+                    width: calc(50% - 24px)!important;
+                    margin: 0 10px 20px
+                }
+
+                .skills.div.inpage {
+                    margin-bottom: 80px!important
+                }
+
+                .HoroIn {
+                    background: #fff;
+                    margin-top: -29px!important
+                }
+
+                .mightlike .w-col.w-col-4 img {
+                    border: 1px solid #a9131f;
+                    width: 400px;
+                    height: 250px;
+                    padding: 5px!important;
+                    background: #fefcfc;
+                    margin-bottom: 5px;
+                    object-fit: cover
+                }
+
+                .rightbar .w-col-4 img {
+                    padding: 0!important;
+                    margin-bottom: 10px!important;
+                    width: 335px;
+                    height: 200px;
+                    object-fit: cover;
+                    border: 1px solid #ddd
+                }
+
+                h2#horoscope-dates span.color {
+                    color: #000!important
+                }
+
+                .rightbar.fntbt {
+                    margin-top: 680px
+                }
+
+                .ftopblock p {
+                    font-size: 15px!important
+                }
+
+                .portfolio-image img,img.HoroIndexImg {
+                    width: 100px;
+                    height: 100px;
+                    border-radius: 50%
+                }
+
+                .navbar-form #quicksignmatch-menu .smwrapper button {
+                    background: #ffe08d;
+                    line-height: 36px;
+                    color: #474747;
+                    border: 1px solid #e4e4e4;
+                    font-weight: 400
+                }
+
+                .WeeklyHoroscope {
+                    clear: both
+                }
+
+                .signs .ChangeHoroTime.fbziz {
+                    margin-top: 25px;
+                    margin-bottom: 15px
+                }
+
+                #content #blog-index h1 {
+                    padding-top: 20px!important;
+                    margin-bottom: 40px!important
+                }
+
+                .blogDate {
+                    text-align: right!important;
+                    color: #878787;
+                    margin: 0 55px 20px 0!important;
+                    font-size: 12px!important
+                }
+
+                #contentblog h1 {
+                    padding-top: 15px;
+                    margin-bottom: 10px
+                }
+
+                .compatibility .headline-div-block h2 {
+                    line-height: 1.5
+                }
+
+                .w-col.w-col-4 p.blog-text._2 {
+                    margin: 0!important;
+                    font-size: 15px;
+                    padding-bottom: 0
+                }
+
+                .comind .skills p {
+                    font-size: 15px
+                }
+
+                .headline-div-block p {
+                    font-size: 17px;
+                    line-height: 1.8!important;
+                    color: #262626
+                }
+
+                .ChangeHoroTime {
+                    clear: both;
+                    padding: 0 50px 20px
+                }
+
+                .ChangeHoroTime.fbziz {
+                    margin: -20px 0 40px!important;
+                    padding: 0 100px
+                }
+
+                .frontpagecontin .headline-div-block h2 {
+                    margin-top: 70px;
+                    border-bottom: none!important
+                }
+
+                .singleHoro .t_hold_h.smzia {
+                    padding-top: 0!important;
+                    margin-left: 20px
+                }
+
+                .singleHoro span.headerline-section.small {
+                    margin-top: 0;
+                    padding-top: 10px
+                }
+
+                .singleHoro .headline-div-block h1 {
+                    font-size: 45px;
+                    text-align: center;
+                    border-bottom: 3px solid #f7f5ef!important;
+                    width: fit-content!important;
+                    padding-top: 18px;
+                    padding-bottom: 5px;
+                    margin-bottom: 10px
+                }
+
+                .singleHoro h4.headerline-section.small {
+                    border: none;
+                    width: 100%;
+                    padding-top: 8px
+                }
+
+                h4.headerline-section {
+                    padding-top: 20px;
+                    width: 90%;
+                    margin: auto
+                }
+
+                .headline-div-block h1 {
+                    padding-bottom: 15px;
+                    width: fit-content;
+                    margin: 0 auto 25px;
+                    border-image: linear-gradient(267deg ,#fff 0,rgb(254 254 254) 25%,#f4dad4 50%,rgb(254 254 254) 75%,#fff 100%) 1!important;
+                    border-bottom: 3px solid #f4dad4!important;
+                    letter-spacing: 1px;
+                    font-weight: 300
+                }
+
+                #content .w-container .skills h2 {
+                    font-size: 15px;
+                    margin: auto;
+                    padding-top: 25px;
+                    padding-bottom: 15px;
+                    border: 0 #f4f4f4!important
+                }
+
+                .signs #horoscope {
+                    margin: 0 12px
+                }
+
+                #dfc,#dfca,.rightbar #additional-signs,.rightbar .compatibilityHoroPage {
+                    margin-bottom: 15px
+                }
+
+                .headline-div-block {
+                    border: none;
+                    padding: 0 15px 25px
+                }
+
+                .skills-wrapper {
+                    width: 300px;
+                    margin: auto
+                }
+
+                #page-content p {
+                    line-height: 22px;
+                    font-weight: 300
+                }
+
+                .w-container.capped h2 {
+                    margin-top: 50px;
+                    margin-bottom: 10px
+                }
+
+                .tzs1 p {
+                    font-size: 16px;
+                    line-height: 1.4!important;
+                    padding: 5px 25px 10px;
+                    margin: 2px -25px -10px!important
+                }
+
+                .HoroIn a,.rightbar h3 {
+                    font-size: 14px
+                }
+
+                .frontpagecontin .headline-div-block h1 {
+                    padding: 0;
+                    font-size: 25px;
+                    border-bottom: none;
+                    width: 100%;
+                    margin: 0 5px 8px -5px
+                }
+
+                .logo {
+                    padding: 0
+                }
+
+                #AZS #page-content {
+                    overflow: unset;
+                    background: #fff;
+                    padding: 100px 15px 0px
+                }
+
+                .rightbar .why-us #dfc {
+                    margin-top: -15px
+                }
+
+                .HoroIn a {
+                    padding: 10px;
+                    text-decoration: none;
+                    text-transform: capitalize
+                }
+
+                #skm-d-mid,#skm-d-btm {
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    display: flex
+                }
+
+                #dfa {
+                    margin: 15px auto 25px!important
+                }
+
+                #dfc,#dfca {
+                    margin: 25px auto 15px
+                }
+
+                #horoscopes-page,.main-b {
+                    padding: 0 25px
+                }
+
+                p.tkm {
+                    margin-bottom: -5px!important
+                }
+
+                #horoscopes-page h1 {
+                    margin: 0 0 5px;
+                    border: none;
+                    width: 100%!important;
+                    padding: 0
+                }
+
+                .caltable {
+                    width: 75%;
+                    padding: 0 15px;
+                    margin: 0 auto 45px
+                }
+
+                .signs .headline-div-block .image-port {
+                    float: right;
+                    margin-top: -130px;
+                    margin-bottom: -110px;
+                    border-radius: 50%;
+                    height: 100px;
+                    margin-right: 100px;
+                    background: #fff
+                }
+
+                .singleHoro .single_Horoscope {
+                    margin: 20px 0 0
+                }
+
+                .HoroSContiner .single_Horoscope {
+                    margin: 15px 0 0!important
+                }
+
+                .compatibility img.sign1,.compatibility img.sign2 {
+                    height: 68px;
+                    width: 68px;
+                    border-radius: 50%
+                }
+
+                .compatibility .signsmatch {
+                    width: 190px;
+                    margin: 0 auto -10px
+                }
+
+                .compatibility img.heart-match {
+                    width: 25px;
+                    height: 23px
+                }
+
+                #Footer {
+                    margin-top: 200px;
+                    padding-bottom: 25px!important;
+                    background: #fff!important
+                }
+
+                #Footer .navi a {
+                    color: #1f1437!important
+                }
+
+                #Footer .copyright {
+                    padding: 25px 0 ;
+                    color: #333
+                }
+
+                .footer-small {
+                    padding-left: 30px!important
+                }
+
+                .compainfo {
+                    width: 83%;
+                    float: left
+                }
+
+                .compaimgz {
+                    width: 17%;
+                    float: right
+                }
+
+                #horoscopes-page .headline-div-block,.frontpage .headline-div-block,.media-section .headline-div-block {
+                    width: 100%;
+                    border: none
+                }
+
+                img.image-port.horo {
+                    height: 70px;
+                    width: 70px;
+                    border-radius: 50%
+                }
+
+                #content {
+                    max-width: 1350px;
+                    margin: auto;
+                    padding-top: 15px;
+                    border-top: 10px solid #f0dfdc
+                }
+
+                .comind>div {
+                    display: inline-block;
+                    width: 48%;
+                    vertical-align: top
+                }
+
+                .rightbar {
+                    margin-right: 0
+                }
+
+                #horoscopes-page,.frontpagecontin {
+                    float: left;
+                    margin-top: 20px
+                }
+
+                .portfolio-image {
+                    width: calc(16.6% - 10px);
+                    float: left;
+                    padding: 15px 5px 10px;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    margin-bottom: 10px
+                }
+
+                .category._2 {
+                    margin-top: 5px;
+                    font-size: 11px;
+                    width: 100%;
+                    height: 25px
+                }
+
+                .rightbar .headline-div-block {
+                    width: 100%;
+                    border: none;
+                    padding: 0;
+                    background: #fefcfc
+                }
+
+                .headline-div-block h2 {
+                    font-weight: 300;
+                    text-transform: uppercase;
+                    font-size: 28px;
+                    padding: 10px 15px;
+                    border-top: none!important;
+                    background: 0 0!important;
+                    width: fit-content;
+                    display: table;
+                    margin: 35px auto 10px
+                }
+
+                .rightbar h4.tittle._2 {
+                    margin-left: 15px
+                }
+
+                .rightbar p.blog-text._2 {
+                    margin-left: 15px!important;
+                    margin-top: 5px!important
+                }
+
+                #zodiac-signs {
+                    margin: 20px -20px 25px!important;
+                    padding-top: 5px;
+                    padding-bottom: 5px
+                }
+            }
+
+            @media (max-width: 490px) {
+                #quicksignmatch-top .smwrapper button,.rightbar .smwrapper button,.w-container .smwrapper button {
+                    width:85%!important;
+                    margin: 12px 0 0!important
+                }
+
+                .w-container .smwrapper select {
+                    width: 40%!important
+                }
+
+                #quicksignmatch .smwrapper {
+                    padding: 15px 0!important
+                }
+            }
+
+            @media (max-width: 355px) {
+                #calendar td {
+                    padding:6px
+                }
+
+                body #horoscopes-page .w-container .headline-div-block h1,body .frontpagecontin .w-container .headline-div-block h1 {
+                    font-size: 17px!important;
+                    line-height: 1.3
+                }
+
+                #content .HoroIndexAZ .HoroSign {
+                    width: 150px!important
+                }
+
+                #content h4.headerline-section {
+                    font-size: 12px!important;
+                    margin-bottom: 6px
+                }
+            }
+
+            @media (max-width: 425px) {
+                .portfolio .w-container .portfolio-image {
+                    width:31%;
+                    padding: 10px 5px!important
+                }
+
+                a.tittle.portfolio-2 {
+                    font-size: 14px
+                }
+
+                .w-container .category._2 {
+                    font-size: 10px;
+                    margin-top: 2px
+                }
+
+                select#day {
+                    width: 35%!important
+                }
+
+                select#month {
+                    width: 42%!important
+                }
+
+                .wel img {
+                    display: none
+                }
+            }
+
+            @media (max-width: 550px) {
+                .compatibility #nopf,.compatibility #nopfa {
+                    margin-bottom:40px
+                }
+
+                #skm-m-mid,#skm-m-btm {
+                    clear: both;
+                    float: none!important
+                }
+
+                #nopf,#nopfa {
+                    float: unset!important
+                }
+
+                .smwrapper.top.comptio {
+                    display: none!important
+                }
+
+                .portfolio .w-container .portfolio-image {
+                    width: calc(33% - 6px);
+                    padding: 12px 5px 10px;
+                    margin-right: 3px;
+                    margin-bottom: 5px;
+                    margin-left: 3px
+                }
+
+                #horoscopes-page .rightbar .w-col.w-col-4,.frontpage .rightbar .w-col.w-col-4 {
+                    width: 100%!important;
+                    float: none!important;
+                    padding-right: 0!important;
+                    margin-bottom: 25px!important
+                }
+            }
+
+            @media (max-width: 700px) {
+                p.blog-text._2 {
+                    text-align:left
+                }
+
+                .w-container .portfolio-image {
+                    width: calc(25% - 10px);
+                    padding: 15px 5px 10px;
+                    margin-right: 5px;
+                    margin-left: 5px;
+                    margin-bottom: 10px
+                }
+            }
+
+            @media (max-width: 991px) {
+                .imgka {
+                    background:#fff;
+                    margin: 40px -15px 20px
+                }
+
+                #AZS .Author-Bio,.caldtmz {
+                    padding: 5px
+                }
+
+                #AZS .mightlike h3 {
+                    font-size: 20px
+                }
+
+                img.signsaddimg {
+                    width: 90vw;
+                    aspect-ratio: 16/10!important
+                }
+
+                #AZS .signs .headline-div-block .Author-avatar img {
+                    margin: 5px 20px!important
+                }
+
+                .tittle._2 a {
+                    font-weight: 300!important
+                }
+
+                .azshby,.caldtmz {
+                    text-align: center
+                }
+
+                .w-container.singleHoro #nopfa {
+                    margin-top: 25px!important;
+                    margin-bottom: 2px!important;
+                    background: #f9f7fe
+                }
+
+                .footer-small .mdmd {
+                    float: left;
+                    width: 100%
+                }
+
+                .footer-small form.subscribeform {
+                    border-bottom: 5px solid #efc8be;
+                    padding-bottom: 20px;
+                    padding-top: 20px;
+                    margin-bottom: 30px!important
+                }
+
+                .footer-small .consentr {
+                    color: #444
+                }
+
+                .footer-small button.form-submit {
+                    background: #fbf6f5;
+                    text-transform: uppercase;
+                    height: 60px;
+                    border: 1px solid #a9131f;
+                    color: #a9131f
+                }
+
+                .footer-small #Footer .mdmd {
+                    float: left;
+                    width: 49%;
+                    margin-bottom: 10px
+                }
+
+                .footer-small select {
+                    color: #fff;
+                    border: 0;
+                    background-color: #f0c7be;
+                    width: 95%;
+                    text-align: center
+                }
+
+                .footer-small .hselz {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: #444;
+                    letter-spacing: 2px;
+                    font-size: 14px
+                }
+
+                .footer-small .form-group.submit {
+                    margin-top: 5px
+                }
+
+                .footer-small .sacmi {
+                    clear: both;
+                    padding-top: 5px
+                }
+
+                .footer-small .dkzzia {
+                    color: #37104a;
+                    text-transform: uppercase;
+                    letter-spacing: 2px;
+                    font-weight: 600;
+                    margin-bottom: 15px
+                }
+
+                #AZS .scroll_container_sub {
+                    min-width: 78%
+                }
+
+                .caldtmz {
+                    background: #fbf6f5
+                }
+
+                #AZS .zod-nav {
+                    margin-bottom: 25px
+                }
+
+                .t_hold_h {
+                    border: 0!important
+                }
+
+                .azsholdd {
+                    width: 100%;
+                    height: 90px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    align-content: center
+                }
+
+                .azshby {
+                    height: 50px;
+                    width: 100%;
+                    top: 0;
+                    position: relative
+                }
+
+                #nopf,#nopfa,.DynLzld {
+                    padding: 25px 0px;
+                    background: #fcfaf9!important;
+                    height: 425px;
+                    margin: 30px 0 10px!important;
+                    position: relative
+                }
+
+                #skm-m-leaderboard {
+                    text-align: center!important
+                }
+
+                .DynLzld {
+                    display: block;
+                    width: 100%!important
+                }
+
+                #skm-dyn3,#skm-dyn4,#skm-dyn5,#zs-dyn6 {
+                    overflow: hidden;
+                    display: flex;
+                    position: sticky;
+                    top: 100px;
+                    flex-direction: column;
+                    justify-content: flex-start;
+                    align-items: center;
+                    text-align: center
+                }
+
+                #content {
+                    padding-top: 10px
+                }
+
+                .strwek {
+                    background: #fefdfc;
+                    margin-bottom: -20px;
+                    padding-bottom: 25px
+                }
+
+                .ftopblock p {
+                    font-size: 15px;
+                    line-height: 1.4;
+                    text-align: center
+                }
+
+                .singleHoro .t_hold_h {
+                    margin: 0;
+                    padding: 0 0 5px
+                }
+
+                #content .rrssb-buttons::before {
+                    margin: 15px -25px 0 25px;
+                    font-size: 15px;
+                    float: left;
+                    color: #1f134e;
+                    padding-right: 10px
+                }
+
+                .rightbar #quicksignmatch-top {
+                    box-shadow: none!important;
+                    margin-top: 25px
+                }
+
+                #content .signs #quicksignmatch button {
+                    margin-bottom: -20px!important
+                }
+
+                .compabox1 h3 {
+                    color: #332153!important;
+                    background: #f8f6f2!important
+                }
+
+                .skills.div.inpage {
+                    max-width: 300px;
+                    margin: 0 auto 45px
+                }
+
+                .headline-div-block h2 {
+                    font-size: 17px!important;
+                    padding: 12px 10px 10px!important;
+                    line-height: 1.5em;
+                    margin-bottom: 10px
+                }
+
+                .rightbar .smwrapper.top {
+                    border: 1px solid #eee;
+                    padding: 55px 20px 40px;
+                    box-shadow: -1px 1px 9px 2px #eee;
+                    background: #faf5fb33;
+                    margin: 45px 0 0
+                }
+
+                h2.lns {
+                    margin-top: 47px;
+                    margin-bottom: 12px
+                }
+
+                .tarot-cards-main li,.tarot-cards-row li {
+                    padding: 3px 10px 3px 0
+                }
+
+                .topa {
+                    height: 51px!important;
+                    background: hsla(0,0%,100%,.8)
+                }
+
+                .tittle._2 {
+                    line-height: 1.5;
+                    margin-bottom: -10px;
+                    text-align: left;
+                    margin-top: 0;
+                    padding-right: 5px
+                }
+
+                .HoroIndexAZ {
+                    margin-top: 25px
+                }
+
+                .rightbar #additional-signs .compatibilitylist li a {
+                    font-size: 12px!important
+                }
+
+                .mightlike .w-container h2 {
+                    border: none!important;
+                    background: #f6f8fa!important;
+                    color: #333!important;
+                    margin-top: -10px!important;
+                    margin-bottom: 25px
+                }
+
+                .consentdiv {
+                    padding-top: 12px!important
+                }
+
+                .frontpagecontin #additional-signs .smwrapper {
+                    margin-top: 40px
+                }
+
+                .frontpagecontin .compainfo p {
+                    margin: 0!important
+                }
+
+                .single_Horoscope .MonthlyHoroscope,.single_Horoscope .WeeklyHoroscope,.single_Horoscope .dailyHoroscope {
+                    min-height: unset!important
+                }
+
+                #horoscopes-page h1 {
+                    margin-bottom: -15px
+                }
+
+                #horoscopes-page .headline-div-block h2,.frontpagecontin .headline-div-block h2 {
+                    border: none!important;
+                    background: #fefcfc!important;
+                    margin-bottom: -15px;
+                    font-size: 20px!important;
+                    margin-top: -5px
+                }
+
+                span.headerline-section.small {
+                    padding: 0 25px!important;
+                    font-size: 12px!important;
+                    color: #333;
+                    line-height: 18px
+                }
+
+                .frontpagecontin .w-container .headline-div-block h1 {
+                    font-size: 22px!important;
+                    margin-bottom: -15px;
+                    margin-top: -15px
+                }
+
+                .mightlike .w-col.w-col-4,.rightbar .w-col.w-col-4 {
+                    padding-bottom: 15px!important
+                }
+
+                .mightlike .w-col.w-col-4 img,.rightbar .w-col-4 img {
+                    border-radius: 0;
+                    width: 90vw;
+                    aspect-ratio: 16/10!important;
+                    object-fit: cover;
+                    border: 1px solid #ddd;
+                    padding: 0!important;
+                    margin-bottom: 10px
+                }
+
+                #content #quicksignmatch button {
+                    width: 100%;
+                    margin: 15px 0 0
+                }
+
+                .rightbar #quicksignmatch button,.rightbar #quicksignmatch-top button {
+                    border: 1px solid #d7d7d7;
+                    width: 85%!important;
+                    margin-top: 12px!important
+                }
+
+                .rightbar #quicksignmatch .smwrapper {
+                    border: none!important;
+                    padding-top: 35px!important;
+                    padding-bottom: 20px!important
+                }
+
+                #additional-signs h3 {
+                    font-size: 14px;
+                    padding-top: 15px;
+                    color: #000;
+                    margin: 14px 0 -15px!important
+                }
+
+                #horoscopes-page .headline-div-block p,.compatibility .rightbar h3,.frontpage .headline-div-block p {
+                    padding-top: 15px
+                }
+
+                header .add-icon {
+                    display: none!important
+                }
+
+                #add-nav header {
+                    font-size: 13px!important;
+                    padding: 10px 75px 10px 15px!important
+                }
+
+                .bhoroza #nopfa {
+                    margin-bottom: 25px!important
+                }
+
+                .signs #horoscope {
+                    clear: both
+                }
+
+                .comind {
+                    margin: -8px 0 0!important
+                }
+
+                .caltable {
+                    width: 100%;
+                    margin-bottom: 25px;
+                    padding: 0 10px
+                }
+
+                #zodiac-signs {
+                    margin-top: 0;
+                    padding-top: 5px;
+                    padding-bottom: 5px;
+                    margin-left: 1px;
+                    margin-right: 1px
+                }
+
+                .media-section .headline-div-block {
+                    width: 100%;
+                    border: none
+                }
+
+                #nopf,#nopfa {
+                    width: 100%;
+                    float: left
+                }
+
+                #skm-m-mid,#skm-m-btm {
+                    overflow: hidden;
+                    display: flex;
+                    position: sticky;
+                    top: 100px;
+                    flex-direction: column;
+                    justify-content: center;
+                    text-align: center!important;
+                    align-items: center
+                }
+
+                #horoscopes-page,.frontpagecontin {
+                    width: 100%;
+                    float: left;
+                    margin-bottom: 15px;
+                    border-top: 0;
+                    padding-top: 15px
+                }
+
+                #horoscopes-page .headline-div-block,.frontpage .headline-div-block {
+                    width: 100%;
+                    border: none;
+                    margin: 0;
+                    padding: 0!important
+                }
+
+                #horoscopes-page .rightbar .w-col.w-col-4,.frontpage .rightbar .w-col.w-col-4 {
+                    width: 33%;
+                    float: left;
+                    padding-right: 15px
+                }
+
+                .portfolio-image {
+                    width: calc(25% - 10px);
+                    float: left;
+                    padding: 15px 5px 10px;
+                    text-align: center;
+                    margin-left: 5px;
+                    margin-right: 5px;
+                    margin-bottom: 10px
+                }
+
+                .category._2 {
+                    font-size: 11px;
+                    width: 100%;
+                    height: 25px
+                }
+
+                .rightbar .headline-div-block {
+                    border: none;
+                    padding: 0;
+                    margin: -30px 0 20px;
+                    background: #fff
+                }
+
+                .smwrapper select {
+                    width: 45%!important
+                }
+
+                .signs #quicksignmatch {
+                    padding: 10px 15px
+                }
+
+                .rightbar .textbar h3 {
+                    margin: 0 0 10px;
+                    text-align: left
+                }
+
+                .w-container .rightbar img.image-port,.w-container.signs .rightbar img.image-port {
+                    width: 100px;
+                    height: 100px!important;
+                    margin: 0!important
+                }
+
+                .tzs1 p {
+                    font-size: 16px;
+                    line-height: 1.5!important;
+                    padding: 5px 25px 10px;
+                    margin: 0 0 -10px!important
+                }
+
+                #content .tzs1 h2,.rightbar h3 {
+                    margin-bottom: 15px;
+                    text-align: center
+                }
+
+                #content .tzs1 h2 {
+                    border-top: 3px solid #fff8f1!important;
+                    margin: -5px 0 10px!important;
+                    padding: 7px 25px 6px 0!important;
+                    font-size: 18px!important;
+                    background: #fefcfc!important;
+                    color: #29144d!important
+                }
+
+                .w-container.signs img.image-port {
+                    width: 50px;
+                    height: 50px!important;
+                    margin-left: 0!important;
+                    border-radius: 50%;
+                    padding: 0!important;
+                    margin-bottom: -30px;
+                    position: relative;
+                    top: 15px
+                }
+
+                .w-container .headline-div-block h1 {
+                    font-size: 30px!important;
+                    padding: 5px 5px 10px!important
+                }
+
+                .headline-div-block #quicksignmatch-top {
+                    margin: -25px 0 12px!important
+                }
+
+                .rightbar h3 {
+                    font-size: 14px;
+                    margin-top: -10px;
+                    text-transform: uppercase
+                }
+
+                .headline-div-block .comind .skills {
+                    padding: 0;
+                    margin: 0
+                }
+
+                img.image-port.horo {
+                    border-radius: 50%;
+                    height: 65px;
+                    width: 65px;
+                    margin: -5px 10px 0 0!important
+                }
+
+                h4.headerline-section {
+                    padding: 0 25px!important;
+                    font-size: 12px!important;
+                    color: #333
+                }
+
+                .headline-div-block h1 {
+                    padding: 5px 25px 10px!important;
+                    text-transform: none;
+                    margin: 0 10px
+                }
+
+                .headline-div-block {
+                    width: 100%;
+                    float: none;
+                    margin-bottom: 0
+                }
+            }
+
+            .readreport a,.rightbar .dkzzia,.smwrapper button {
+                text-transform: uppercase
+            }
+
+            #birthday {
+                width: 50%
+            }
+
+            #additional-signs,#dfa,.rightbar .textbar,.rightbar h3 {
+                margin-bottom: 25px
+            }
+
+            .rightbar {
+                float: right;
+                width: 405px
+            }
+
+            #page-content .rightbar p,.rightbar p {
+                margin-bottom: 5px
+            }
+
+            .rightbar a {
+                color: #8532cb
+            }
+
+            .copyright,.signs h1 span.color,.smwrapper option,h1 span.color {
+                color: #444
+            }
+
+            #additional-signs .compatibilitylist {
+                padding: 0 5px 8px;
+                list-style-type: none;
+                line-height: 1.4;
+                overflow: hidden;
+                margin: 15px 0;
+                text-align: center
+            }
+
+            .smwrapper {
+                padding: 20px 15px;
+                font-size: 18px;
+                text-align: center
+            }
+
+            .smwrapper select {
+                width: 105px
+            }
+
+            .smwrapper button {
+                background: #fbf6f5!important;
+                border: 1px solid #fbf6f5!important;
+                border-radius: 5px;
+                color: #a9131f!important;
+                font-size: 13px;
+                width: 100%;
+                line-height: 37px;
+                letter-spacing: 5px
+            }
+
+            .rightbar .textbar {
+                height: 100%
+            }
+
+            .rightbar p {
+                font-size: 16px
+            }
+
+            .compbottom i[class*=icon-zodiac] {
+                font-size: 100px;
+                display: block
+            }
+
+            .compbottom i[class*=icon-zodiac].o {
+                font-size: 70px;
+                margin: 10px;
+                display: block;
+                text-align: center
+            }
+
+            .rrssb-buttons {
+                max-width: 1350px;
+                margin: 15px auto;
+                padding: 0
+            }
+
+            .rrssb-buttons::after {
+                content: '';
+                display: block;
+                clear: both
+            }
+
+            .rrssb-buttons li {
+                list-style: none;
+                display: inline-block;
+                vertical-align: middle;
+                margin-right: 5px
+            }
+
+            .rrssb-buttons a {
+                display: block;
+                padding: 8px;
+                width: 49px;
+                height: 47px
+            }
+
+            #Footer .navi a,.DailyL {
+                text-decoration: underline
+            }
+
+            .copyright,.readreport a,.single_Horoscope a,.w-tab-pane.w--tab-active {
+                display: block
+            }
+
+            @media (max-width: 400px) {
+                .signs .w-tab-pane p a {
+                    font-size:15px;
+                    padding-bottom: 0;
+                    margin-bottom: 0
+                }
+
+                #slidemenu {
+                    width: 100%!important;
+                    top: 50px!important;
+                    left: -100%
+                }
+
+                .topmenu #quicksignmatch-menu .smwrapper {
+                    padding: 4px 2px 15px!important
+                }
+            }
+
+            #Footer {
+                padding: 30px 15px;
+                background: #fbf6f5
+            }
+
+            #Footer .navi,#blog-index .posted_date+* {
+                clear: both
+            }
+
+            #Footer .navi a {
+                font-size: 12px;
+                border-radius: 5px;
+                color: #37104a;
+                display: inline-block;
+                margin: 10px;
+                padding: 5px 10px;
+                text-decoration: none
+            }
+
+            #Footer .appd {
+                width: 250px;
+                max-width: 100%
+            }
+
+            .copyright {
+                padding: 15px 0;
+                font-size: 12px;
+                text-align: center;
+                margin-bottom: -30px
+            }
+
+            .comind {
+                margin: 13px 0 0
+            }
+
+            .headline-div-block #quicksignmatch-top {
+                margin: -25px 0 20px
+            }
+
+            .headline-div-block .smwrapper form {
+                display: inline-block;
+                vertical-align: middle
+            }
+
+            .headline-div-block .smwrapper button {
+                display: inline-block;
+                vertical-align: middle;
+                width: auto;
+                margin: 10px 15px;
+                padding: 0 35px
+            }
+
+            .comind .skills {
+                border: 1px;
+                margin: 5px
+            }
+
+            .comind .skills .w-container {
+                padding: 0 15px 15px;
+                background: #fff;
+                border: 1px solid #eee;
+                box-shadow: -1px 1px 9px 2px #eee;
+                border-radius: 5px
+            }
+
+            .comind .skills p {
+                max-height: 140px;
+                overflow: hidden;
+                position: relative
+            }
+
+            .comind h2 {
+                margin: 0 -15px;
+                padding: 10px 5px;
+                background: #b7b7b7
+            }
+
+            #page-content .comind h2 a {
+                color: #291051;
+                font-size: 20px;
+                text-decoration: none
+            }
+
+            .comind [class*=icon-zodiac] {
+                font-size: 14px
+            }
+
+            .comind .signsmatch img {
+                height: 50px;
+                width: 50px;
+                border-radius: 50%;
+                margin: 0 0 5px
+            }
+
+            .symbol-heart:after,.symbol-heart:before {
+                content: '';
+                display: inline-block;
+                position: absolute;
+                background-color: inherit;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                border-radius: 50%
+            }
+
+            .symbol-heart:before {
+                left: -50%
+            }
+
+            .symbol-heart:after {
+                top: -50%
+            }
+
+            .readreport a {
+                padding: 10px 5px 5px;
+                border-bottom: 3px solid #ddd;
+                width: fit-content!important;
+                letter-spacing: 3px;
+                color: #2a1051!important;
+                font-weight: 600!important
+            }
+
+            @media (max-width: 600px) {
+                .comind .skills p {
+                    max-height:none;
+                    font-size: 1rem
+                }
+
+                .comind .headline-div-block {
+                    margin: 0
+                }
+            }
+
+            .skills-div-block {
+                background-color: #f4f4f4;
+                padding: 2px;
+                border-radius: 10px;
+                margin-bottom: 10px;
+                border: 1px solid #ddd
+            }
+
+            .skills-line {
+                height: 15px;
+                border-radius: 6px 0 0 6px;
+                background: #1f1437
+            }
+
+            .headline-div-block .image-port.horo {
+                float: left;
+                margin: 5px 15px 15px 0;
+                font-size: 3em
+            }
+
+            #additional-signs .compatibilitylist li a,.ChangeHoroTime>a {
+                letter-spacing: 1px;
+                display: inline-block;
+                padding: 12px;
+                border-radius: 4px;
+                margin: 12px 4px 0;
+                font-size: 14px;
+                color: #000!important;
+                font-weight: 300!important;
+                text-transform: uppercase;
+                background: #ffd9d9;
+                box-shadow: 1px 2px 5px rgb(0 0 0 / 13%);
+                border: 1px solid #eecece
+            }
+
+            .add-icon,header .add-icon,select {
+                background-repeat: no-repeat
+            }
+
+            .DailyDate,.WeeklyDate,.monthlyDate {
+                margin-bottom: 10px;
+                clear: both;
+                display: block;
+                text-align: center;
+                font-size: 1rem;
+                color: #1f1437;
+                font-weight: 600
+            }
+
+            .HoroIndexAZ {
+                justify-content: center;
+                align-content: center;
+                display: flex;
+                flex-wrap: wrap;
+                clear: both;
+                max-width: 1210px;
+                margin: 0 auto 25px
+            }
+
+            .HoroIndexAZ i[class*=icon-zodiac] {
+                font-size: 54px;
+                display: block
+            }
+
+            .HoroSignTitle {
+                padding: 10px
+            }
+
+            .HoroIndexAZ .HoroSign {
+                padding: 15px 5px 10px;
+                width: 190px;
+                display: inline-block;
+                vertical-align: top;
+                text-align: center;
+                margin-bottom: 5px;
+                transition: .2s;
+                margin-right: 2px;
+                margin-left: 2px;
+                border: 1px solid #ddd;
+                border-radius: 5px
+            }
+
+            .HoroIndexAZ .HoroSign:hover {
+                background: #e4969608
+            }
+
+            .HoroIndexAZ .HoroSign a {
+                display: block;
+                padding: 25px 25px 0;
+                text-decoration: none
+            }
+
+            .HoroIndexAZ .HoroSign a+a {
+                padding: 10px 25px 25px
+            }
+
+            .ChangeHoroTime a,.compatibilitylist li {
+                display: inline-block
+            }
+
+            span.color {
+                color: #a9131f
+            }
+
+            .compatibility .additionalinfo .textbar.ele .image-port,.singleHoro .additionalinfo .textbar.ele .image-port {
+                position: unset!important;
+                margin: 0 20px 20px 25px!important;
+                border: 0
+            }
+
+            .additionalinfo .textbar.ele .image-port {
+                position: relative;
+                width: 33%;
+                height: 33%!important;
+                float: right;
+                border: 15px solid #faece5;
+                top: -70px;
+                border-radius: 10%;
+                left: 0;
+                margin: 0 0 20px 25px!important;
+                background: #fff
+            }
+
+            .rightbar img.HoroInImg {
+                height: 75px;
+                width: 75px;
+                text-align: center;
+                display: block;
+                margin: 10px auto 20px;
+                border-radius: 50px
+            }
+
+            img.HoroIndexImg {
+                border-radius: 50%
+            }
+
+            .skills span.color {
+                color: #fff
+            }
+
+            .lnkaquarius .w-container h2,.lnkaries .w-container h2,.lnkcancer .w-container h2,.lnkcapricorn .w-container h2,.lnkgemini .w-container h2,.lnkleo .w-container h2,.lnklibra .w-container h2,.lnkpisces .w-container h2,.lnkscorpio .w-container h2,.lnktaurus .w-container h2,.lnkvirgo .w-container h2 {
+                color: #1f1d1d;
+                background: #fff
+            }
+
+            .capped h2 span.color {
+                color: #1f1437;
+                font-weight: 400
+            }
+
+            img.heart-match {
+                height: 18px!important;
+                width: 20px!important;
+                border-radius: 0!important;
+                margin: 0 10px!important;
+                top: -20px
+            }
+
+            .lnkaries .w-container h2 {
+                border: solid #21afcd;
+                border-width: 1px 0
+            }
+
+            .lnkcapricorn .w-container h2 {
+                border: solid #f1d513;
+                border-width: 1px 0
+            }
+
+            .lnkaquarius .w-container h2 {
+                border: solid #bdde26;
+                border-width: 1px 0
+            }
+
+            .lnkpisces .w-container h2 {
+                border: solid #28cf23;
+                border-width: 1px 0
+            }
+
+            .lnksagittarius .w-container h2 {
+                border: solid #f1b000;
+                color: #1f1d1d;
+                background: #fff;
+                border-width: 1px 0
+            }
+
+            .lnkscorpio .w-container h2 {
+                border: solid #f19317;
+                border-width: 1px 0
+            }
+
+            .lnklibra .w-container h2 {
+                border: solid #f5580a;
+                border-width: 1px 0
+            }
+
+            .lnkvirgo .w-container h2 {
+                border: solid #ec292d;
+                border-width: 1px 0
+            }
+
+            .lnkleo .w-container h2 {
+                border: solid #d11e93;
+                border-width: 1px 0
+            }
+
+            .lnkgemini .w-container h2 {
+                border: solid #421fca;
+                border-width: 1px 0
+            }
+
+            .lnkcancer .w-container h2 {
+                border: solid #981ecb;
+                border-width: 1px 0
+            }
+
+            .lnktaurus .w-container h2 {
+                border: solid #1f73c9;
+                border-width: 1px 0
+            }
+
+            @media (min-width: 355px) and (max-width:440px) {
+                #horoscopes-page .w-container .headline-div-block h1,.frontpagecontin .w-container .headline-div-block h1 {
+                    font-size:19px!important;
+                    line-height: 1.3
+                }
+            }
+
+            @media (min-width: 740px) {
+                .horoscope_archive_month:nth-child(odd) {
+                    clear:both
+                }
+
+                .horoscope_archive_month {
+                    width: 48%;
+                    float: left
+                }
+
+                .horoscope_conainter_b {
+                    padding: 35px 50px!important
+                }
+            }
+
+            @media (min-width: 991px) and (max-width:1140px) {
+                .div-991to1140 {
+                    width:728px;
+                    margin: 20px auto
+                }
+            }
+
+            @media (min-width: 700px) and (max-width:991px) {
+                .rightbar .w-col-4 {
+                    width:calc(50% - 24px)!important;
+                    margin: 0 12px 25px;
+                    float: left
+                }
+            }
+
+            @media (min-width: 550px) and (max-width:991px) {
+                #horoscopes-page .add.mid,.signs #horoscope {
+                    margin-top:25px
+                }
+
+                .frontpagecontin #nopfa,.signs #nopfa {
+                    float: none
+                }
+
+                .HoroSContiner #nopf {
+                    margin: 20px auto!important
+                }
+
+                #nopf,#nopfa {
+                    margin: 20px 0 10px!important
+                }
+
+                .comind #nopf,.comind #nopfa,.singleHoro #nopf,.singleHoro #nopfa {
+                    float: none;
+                    margin: 20px auto!important
+                }
+
+                .comind .skills p {
+                    max-height: 150px!important
+                }
+            }
+
+            .capped h2,.h-date span,.w-container.compatibility h2 {
+                font-weight: 300
+            }
+
+            .w-container.compatibility h2 span {
+                font-weight: 400;
+                color: #1f1437
+            }
+
+            #calendar table {
+                background: #fff;
+                border-collapse: collapse;
+                color: #222;
+                font-size: 13px;
+                width: 100%
+            }
+
+            #calendar h2,#calendar h3 {
+                font-size: 18px;
+                font-weight: 700;
+                margin: 0 0 10px;
+                text-align: center
+            }
+
+            #calendar tr:first-child td {
+                color: #222;
+                font-weight: 700
+            }
+
+            #calendar td {
+                padding: 13px 6px;
+                border: 1px solid #ccc;
+                color: #444;
+                line-height: 22px;
+                text-align: center
+            }
+
+            .mightlike .w-col.w-col-4,.rightbar .w-col.w-col-4 {
+                margin-bottom: 25px;
+                display: inline-block;
+                text-align: center;
+                padding: 10px 25px 30px
+            }
+
+            #blog-index .headline-div-block {
+                border: none;
+                max-width: 1350px;
+                margin: 30px auto;
+                padding-bottom: 0
+            }
+
+            #blog-index .div-all-in>.w-row {
+                margin-bottom: 28px;
+                overflow: hidden;
+                margin-right: 10px
+            }
+
+            #blog-index .w-row::after,#blog-index .w-row::before {
+                clear: both;
+                content: '';
+                display: block
+            }
+
+            #blog-index .w-col-6 {
+                display: table-cell;
+                vertical-align: top
+            }
+
+            #blog-index .w-row .w-col-6:nth-child(odd) {
+                width: 200px
+            }
+
+            #blog-index .w-row .w-col-6:nth-child(2n+0) {
+                width: calc(100% - 300px);
+                padding: 15px
+            }
+
+            #blog-index .w-col-6 img {
+                width: 100%;
+                display: block
+            }
+
+            #blog-index .post-title {
+                text-decoration: none;
+                float: left;
+                width: calc(100% - 100px)
+            }
+
+            @media (max-width: 767px) {
+                #blog-index .div-all-in {
+                    padding:0 15px
+                }
+
+                #blog-index .post-title,#blog-index .posted_date,#blog-index .w-col-6 {
+                    display: block;
+                    width: 100%!important;
+                    float: none
+                }
+            }
+
+            @media (max-height: 465px) {
+                .changeSign li {
+                    font-size:15px!important;
+                    padding: 0
+                }
+
+                .w-container #sign-selecter li::before {
+                    font-size: 20px!important;
+                    width: 15px!important;
+                    height: 15px!important
+                }
+            }
+
+            img.imageabout {
+                float: left;
+                margin-right: 25px;
+                border-radius: 25px
+            }
+
+            img.Wheelabout {
+                width: 250px;
+                float: right;
+                margin-left: 25px
+            }
+
+            .w-container .skills h2 {
+                border-width: 3px 0 0!important
+            }
+
+            #table-of-contents ul.contents {
+                text-align: center;
+                line-height: 22px;
+                overflow: hidden
+            }
+
+            .headline-div-block h2 {
+                color: #1f1437;
+                font-weight: 300;
+                border-image: linear-gradient(272deg ,#fffcfc 0,rgb(248 246 242) 15%,#ffdebd 50%,rgb(248 246 242) 85%,#fffcfc 100%) 1!important;
+                border-top: 0 solid #fff8f1!important;
+                border-bottom: 3px solid #fff8f1!important;
+                text-transform: capitalize;
+                letter-spacing: .1em;
+                background: 0 0!important
+            }
+
+            input.input-search {
+                width: 100%;
+                float: left;
+                padding: 12px;
+                border: 1px solid #ddd
+            }
+
+            .search-inner button {
+                overflow: hidden;
+                border: none;
+                cursor: pointer;
+                position: absolute;
+                height: 40px;
+                width: 40px;
+                margin-left: -20px;
+                margin-top: -27px;
+                background: 0 0!important
+            }
+
+            .search-inner {
+                background: #fff!important;
+                width: 90%;
+                margin-right: calc(10% / 2);
+                margin-left: calc(10% / 2)
+            }
+
+            .search-wrapper {
+                margin: 4px auto 0 -30px;
+                background-color: #fff;
+                float: left;
+                cursor: pointer
+            }
+
+            .search {
+                width: 20px;
+                margin: 0 auto;
+                padding: 5px 0;
+                text-align: center
+            }
+
+            .search__circle {
+                width: 15px;
+                height: 15px;
+                border: 2px solid #333;
+                border-radius: 100px
+            }
+
+            .search__rectangle {
+                position: absolute;
+                right: 0;
+                bottom: 3px;
+                width: 8px;
+                -webkit-transform: rotate(45deg);
+                transform: rotate(45deg);
+                border: 1px solid #333;
+                border-top-right-radius: 1.2px;
+                border-bottom-right-radius: 1.2px
+            }
+
+            .search-container {
+                background: #fff;
+                padding-top: 15px;
+                padding-bottom: 15px;
+                overflow: hidden;
+                transition: top .3s;
+                position: relative;
+                z-index: -1;
+                border-bottom: 1px solid #ddd
+            }
+
+            @media (min-width: 1201px) {
+                #AZS div.scrollmenu a.selectedzz:after {
+                    left:35px;
+                    font-weight: 300
+                }
+
+                #AZS div.scrollmenu a.selectedzz {
+                    font-weight: 600!important;
+                    color: #fff;
+                    background: #a69fa7;
+                    border-radius: 8px;
+                    text-align: center;
+                    padding: 7px 7px 7px 15px;
+                    margin-right: 25px
+                }
+
+                img.logo {
+                    height: 30px;
+                    width: 203.38px
+                }
+
+                #AZS div.scrollmenu {
+                    background-color: #fffcfc;
+                    text-align: center;
+                    padding-top: 68px;
+                    margin-bottom: -65px
+                }
+
+                .navbar-form #quicksignmatch-menu .smwrapper button {
+                    border-color: #fff;
+                    border-width: 2px
+                }
+
+                #AZS div.scrollmenu a {
+                    border: none!important;
+                    text-decoration: none!important;
+                    font-weight: 300!important;
+                    text-transform: none!important;
+                    color: #000;
+                    letter-spacing: 1px;
+                    font-size: 13px
+                }
+
+                #AZS div.scrollmenu a:after {
+                    display: block;
+                    content: "\2022";
+                    top: 2px;
+                    font-size: 11px;
+                    color: #88878680;
+                    float: right;
+                    position: relative;
+                    left: 16px
+                }
+
+                #slidemenu .navitems .cf::before,#slidemenu .navitems .ch::before {
+                    font-size: 20px;
+                    width: 30px;
+                    height: 30px
+                }
+
+                #slidemenu .dropdown-list a {
+                    font-weight: 300;
+                    text-transform: none;
+                    letter-spacing: 1px;
+                    line-height: 40px;
+                    border: 1px solid #eee;
+                    padding-top: 4px;
+                    border-radius: 5px;
+                    margin: 5px 0;
+                    font-size: 13px;
+                    width: 290px;
+                    color: #000
+                }
+
+                .signs h4.headerline-section {
+                    border-top: 1px solid #ddd;
+                    width: 90%;
+                    margin: auto;
+                    padding-top: 20px
+                }
+
+                .signs .headline-div-block h1 {
+                    font-size: 45px;
+                    width: fit-content;
+                    border-bottom: 0;
+                    margin: 0 auto 25px;
+                    padding-bottom: 20px
+                }
+
+                .single_Horoscope .add {
+                    display: none
+                }
+
+                .singleHoro .single_Horoscope {
+                    margin: 25px 0 50px;
+                    clear: both
+                }
+
+                .singleHoro .HoroSContiner {
+                    margin-top: -15px;
+                    padding-top: 30px
+                }
+
+                .singleHoro .DailyDate,.singleHoro .WeeklyDate,.singleHoro .monthlyDate {
+                    border: none;
+                    padding-bottom: 0;
+                    font-size: 1.1rem;
+                    font-weight: 600;
+                    color: #1f1437;
+                    margin-bottom: 10px
+                }
+
+                body #content {
+                    padding-top: 30px
+                }
+
+                .single_Horoscope {
+                    border: none;
+                    margin-top: 0;
+                    padding-top: 0
+                }
+
+                input.input-search {
+                    border: 1px solid #eee!important;
+                    border-radius: 5px!important
+                }
+
+                .search-container {
+                    display: none;
+                    border-bottom: none;
+                    position: fixed;
+                    z-index: 999999999999999;
+                    top: -2px;
+                    right: 260px;
+                    width: 250px;
+                    background: 0 0!important
+                }
+            }
+
+            .form-input {
+                padding: 10px;
+                font-size: 14px;
+                border: 1px solid #ddd
+            }
+
+            .hselz div {
+                padding: 12px;
+                float: left
+            }
+
+            .consentdiv {
+                clear: both;
+                text-align: center;
+                overflow: hidden;
+                align-items: center;
+                justify-content: center;
+                display: flex;
+                margin-bottom: 15px
+            }
+
+            .form-submit {
+                width: 100%;
+                padding: 10px 25px!important;
+                font-size: 17px;
+                font-weight: 300!important;
+                background: #37114a;
+                color: #fff;
+                margin-top: 5px
+            }
+
+            .hititle,.rightbar .dkzzia {
+                font-weight: 300;
+                text-align: center
+            }
+
+            button.form-submit {
+                border: 1px solid #32124b;
+                border-radius: 5px
+            }
+
+            .consentr {
+                font-size: 10px;
+                overflow: hidden;
+                padding: 10px 0;
+                margin-top: -10px
+            }
+
+            .hititle {
+                font-size: 18px;
+                margin-bottom: 10px
+            }
+
+            form.subscribeform {
+                margin-top: 15px
+            }
+
+            @media (min-width: 851px) {
+                .subribi .form-group {
+                    width:100%
+                }
+
+                .subribi .form-input {
+                    width: 49%
+                }
+            }
+
+            @media (max-width: 991px) {
+                #Footer .topast,.form-group,.rightbar {
+                    float:none
+                }
+
+            
+
+                #Footer,.ChangeHoroTime,.HoroIndexAZ,.add.comptiz,.rrssb-buttons,.smwrapper {
+                    text-align: center
+                }
+
+                p {
+                    line-height: 1.65;
+                    font-weight: 300;
+                    font-size: 17px;
+                    -webkit-font-smoothing: antialiased;
+                    color: #262626
+                }
+
+                .rightbar .smwrapper button,.smwrapper form {
+                    display: inline-block;
+                    vertical-align: middle
+                }
+
+                .rightbar {
+                    width: 100%;
+                    margin-bottom: 20px
+                }
+
+                .rightbar .smwrapper button {
+                    width: 100%;
+                    margin: 10px 15px;
+                    padding: 0 35px
+                }
+
+                .rightbar .textbar h3,.rightbar .textbar p {
+                    padding: 0 15px
+                }
+
+                .rrssb-buttons {
+                    padding-bottom: 15px;
+                    margin: 0;
+                    padding-top: 15px
+                }
+
+                #Footer .topast .logo {
+                    margin: 0 auto
+                }
+
+                .bbleft.cal #additional-signs h3 {
+                    background: 0 0;
+                    border: none;
+                    padding-bottom: 20px
+                }
+
+                .rightbar .w-col-4 img {
+                    width: 150px;
+                    height: 125px
+                }
+
+                .headline-div-block {
+                    padding: 0
+                }
+
+                .headline-div-block p {
+                    padding: 15px 20px 0
+                }
+
+                .ChangeHoroTime {
+                    clear: both;
+                    margin-top: 5px!important;
+                    margin-bottom: 55px
+                }
+
+                .compatibility .signsmatch {
+                    margin: 0 auto 5px!important
+                }
+
+                .compatibility img.sign1,.compatibility img.sign2 {
+                    height: 50px;
+                    width: 50px;
+                    border-radius: 50%
+                }
+
+                .compatibility img.heart-match {
+                    width: 22px;
+                    height: 20px;
+                    top: -10px
+                }
+
+                .compatibility #quicksignmatch-top {
+                    display: none
+                }
+
+                .signsmatch {
+                    width: 155px;
+                    margin: 0 auto
+                }
+
+                .headline-div-block h2 {
+                    font-size: 22px!important;
+                    border-top: 3px solid!important;
+                    margin-right: 10px;
+                    margin-left: 10px
+                }
+
+                .HoroIndexAZ .HoroSign {
+                    width: 175px!important
+                }
+
+                .single_Horoscope .MonthlyHoroscope,.single_Horoscope .WeeklyHoroscope,.single_Horoscope .dailyHoroscope {
+                    float: none;
+                    width: 100%;
+                    margin: 0 0 15px
+                }
+
+                .textbar.ele.add {
+                    margin: 15px 0!important
+                }
+
+                form.subscribeform {
+                    max-width: 350px;
+                    margin: 0 auto!important
+                }
+
+                .hititle {
+                    font-size: 12px
+                }
+
+                .form-input {
+                    width: 100%;
+                    margin-bottom: 10px
+                }
+
+                .hselz div {
+                    padding: 15px 10px 5px
+                }
+
+                .form-group.submit {
+                    float: none!important;
+                    clear: both;
+                    width: 100%;
+                    overflow: hidden;
+                    margin-top: 30px
+                }
+
+                button.form-submit {
+                    width: 100%!important;
+                    clear: both;
+                    margin-top: 10px
+                }
+
+                .field-consent {
+                    position: relative;
+                    top: -4px;
+                    height: 15px;
+                    width: 15px
+                }
+            }
+
+            .consentdiv a {
+                float: left;
+                margin-top: 0;
+                margin-right: 5px;
+                margin-left: 5px
+            }
+
+            @media (min-width: 729px) {
+                #AZS .sharebtn {
+                    bottom:90px
+                }
+
+                .topa {
+                    height: 91px!important
+                }
+
+                .topa .sktmcls {
+                    bottom: 90px!important
+                }
+            }
+
+            #AZS .headline-div-block h1,#AZS span.headerline-section.small {
+                color: #555!important
+            }
+
+            #content .HoroIn a {
+                line-height: 1.5;
+                color: #8532cb;
+                font-size: 15px;
+                padding: 0 5px 0 0;
+                border-bottom: 3px solid #27134d24;
+                display: inline-block;
+                font-weight: 600;
+                letter-spacing: 1px;
+                margin-top: 20px
+            }
+
+            select {
+                height: 45px!important;
+                background-position: calc(100% - 15px) calc(1em + 7px),calc(100% - 10px) calc(1em + 7px),100% 0;
+                background-size: 5px 5px,5px 5px,2.5em 2.5em;
+                background-color: #fff;
+                display: inline-block;
+                line-height: 1.5em;
+                padding: .67em 2em .67em 1em!important;
+                margin: 0;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+                border: 1px solid #f4ebfa;
+                font-size: 13px;
+                background-image: linear-gradient(45deg,transparent 50%,#564b6a 50%),linear-gradient(135deg,#564b6a 50%,transparent 50%),linear-gradient(to right,transparent,transparent);
+                color: #564b6a;
+                border-radius: 3px;
+                letter-spacing: 2px
+            }
+
+            #zodiac-calendar-input {
+                border-bottom: 2px solid #fff;
+                overflow: hidden;
+                margin-bottom: -15px;
+                padding-top: 10px;
+                clear: both;
+                height: 160px;
+                position: relative
+            }
+
+            #quicksignmatch-menu .smwrapper select {
+                background-image: linear-gradient(45deg,transparent 50%,#2a194d 50%),linear-gradient(135deg,#2a194d 50%,transparent 50%),linear-gradient(to right,#fff,#fff)
+            }
+
+            .rightbar a {
+                text-transform: capitalize!important
+            }
+
+            .skills.div.inpage {
+                padding-top: 15px
+            }
+
+            .skills-div-block {
+                width: 83%
+            }
+
+            .skills-wrapper .w-row {
+                width: 17%;
+                float: right;
+                padding: 0 5px;
+                margin-top: -2px
+            }
+
+            h3.skills-tittle.percentual {
+                text-align: center;
+                font-size: 12px;
+                padding: 5px 7px;
+                color: #1f1437;
+                margin-left: 0!important
+            }
+
+            .comind #nopf,.comind #nopfa {
+                box-shadow: none
+            }
+
+            @media (min-width: 1350px) {
+                .rrssb-buttons::before {
+                    margin-top:0!important;
+                    margin-bottom: 10px!important
+                }
+
+                .rrssb-buttons:hover {
+                    opacity: 1
+                }
+
+                .rrssb-buttons svg {
+                    width: 30px
+                }
+            }
+
+            .headline-div-block p a {
+                letter-spacing: 1px;
+                text-decoration: none;
+                border-bottom: 2px solid #ddd
+            }
+
+            .compzatl select {
+                color: #1f1437
+            }
+
+            .pbazy select {
+                color: #1f1437
+            }
+
+            #AZS .zod-nav a {
+                color: #a9131f;
+                border: none;
+                border-radius: 0;
+                margin: 0 5px;
+                text-decoration: none
+            }
+
+            #AZS a.zod-next:after,#AZS a.zod-prev:before {
+                top: 0;
+                color: silver;
+                margin-left: 5px
+            }
+
+            #AZS a.zod-prev:before {
+                margin-right: 5px!important
+            }
+
+            .ccndma .scroll_title {
+                color: #000
+            }
+
+            #skm-m-leaderboard,#skm-m-top {
+                overflow: hidden;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                text-align: center!important;
+                align-items: center;
+                clear: both;
+                float: none!important
+            }
+
+            .rightbar #quicksignmatch-top {
+                width: 80%;
+                margin: auto;
+                border-radius: 20px
+            }
+
+            #slidemenu .dropdown-list.d a,#slidemenu .dropdown-list.z a {
+                border: 0;
+                line-height: 30px;
+                font-size: 15px
+            }
+
+            .zsignindex {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                align-items: center
+            }
+
+            #AZS .additionalinfo p {
+                padding: 8px 20px!important;
+                margin: 0!important;
+                border-bottom: 1px solid #faece5
+            }
+
+            .additionalinfo {
+                clear: both;
+                margin: 40px 0
+            }
+
+            .rightbar .dkzzia {
+                margin-bottom: 10px
+            }
+
+            .rightbar .mdmd {
+                float: left;
+                width: 100%
+            }
+
+            .rightbar .mdmd select {
+                width: 98%!important
+            }
+
+            .rightbar .form-input::placeholder {
+                color: #444
+            }
+
+            .rightbar .form-input,.rightbar .mdmd select {
+                font-size: 14px;
+                border: 1px solid #ddd!important;
+                width: 49%;
+                margin-bottom: 4px;
+                font-weight: 300!important;
+                font-family: sans-serif;
+                letter-spacing: 1px;
+                border-radius: 5px;
+                padding: 11px!important;
+                line-height: 1.2em;
+                color: #444!important
+            }
+
+            .rightbar button.form-submit {
+                width: 150px;
+                margin: 5px auto 15px;
+                text-align: center;
+                display: block
+            }
+
+            .rightbar .form-group {
+                float: unset
+            }
